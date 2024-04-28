@@ -1,0 +1,14 @@
+[
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1929",
+    "link": "https://leetcode.com/problems/concatenation-of-array/description/",
+    "name": "Concatenation of array",
+    "serialNum": 1,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-04-28",
+    "source": "leetcode",
+    "topics" : ["Array", "Simulation"]
+  }
+]
