@@ -24,5 +24,18 @@
     "solvedOn" : "2024-04-28",
     "source": "leetcode",
     "topics" : ["Array", "Simulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1520",
+    "linkProblem": "https://leetcode.com/problems/number-of-good-pairs/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P003_Number_of_good_pairs.java",
+    "name": "Number of good pairs",
+    "serialNum": 3,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-04-29",
+    "source": "leetcode",
+    "topics" : ["Array", "Counting", "Hash Table", "Math"]
   }
 ]
