@@ -11,6 +11,7 @@ package array.leetcode;
     Input: nums = [1,2,3]
     Output: 0
  */
+
 public class P003_Number_of_good_pairs {
     public static void main(String[] args) {
         int[] nums1 = {1, 2, 3, 1, 1, 3}, nums2 = {1, 1, 1, 1}, nums3 = {1, 2, 3};

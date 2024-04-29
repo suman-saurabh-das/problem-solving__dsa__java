@@ -37,5 +37,18 @@
     "solvedOn" : "2024-04-29",
     "source": "leetcode",
     "topics" : ["Array", "Counting", "Hash Table", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1470",
+    "linkProblem": "https://leetcode.com/problems/shuffle-the-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P004_Shuffle_the_array.java",
+    "name": "Shuffle the array",
+    "serialNum": 4,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-04-29",
+    "source": "leetcode",
+    "topics" : ["Array"]
   }
 ]
