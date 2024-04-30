@@ -63,5 +63,18 @@
     "solvedOn" : "2024-04-30",
     "source": "leetcode",
     "topics" : ["Array", "Bit Manipulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1672",
+    "linkProblem": "https://leetcode.com/problems/richest-customer-wealth/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P006_Richest_customer_wealth.java",
+    "name": "Richest customer wealth",
+    "serialNum": 6,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-04-30",
+    "source": "leetcode",
+    "topics" : ["Array", "Matrix"]
   }
 ]
