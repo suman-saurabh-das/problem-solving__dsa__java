@@ -50,5 +50,18 @@
     "solvedOn" : "2024-04-29",
     "source": "leetcode",
     "topics" : ["Array"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-2433",
+    "linkProblem": "https://leetcode.com/problems/find-the-original-array-of-prefix-xor/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P005_Find_the_original_array_of_prefix_xor.java",
+    "name": "Find the original array of prefix xor",
+    "serialNum": 5,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-04-30",
+    "source": "leetcode",
+    "topics" : ["Array", "Bit Manipulation"]
   }
 ]

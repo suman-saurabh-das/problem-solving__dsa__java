@@ -9,6 +9,7 @@
 - 002 [Build array from permutation](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P002_Build_array_from_permutation.java)
 - 003 [Number of good pairs](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P003_Number_of_good_pairs.java)
 - 004 [Shuffle the array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P004_Shuffle_the_array.java)
+- 005 [Find the original array of prefix xor](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P005_Find_the_original_array_of_prefix_xor.java)
 </details>
 
 ## Credits
