@@ -24,7 +24,7 @@ public class P003_Number_of_good_pairs {
     public static int numIdenticalPairs(int[] nums) {
         int numGoodPairs = 0;
         // Using 2 for loops, compare the elements at index i and j
-        // If both are equal then we increment numGoodPairs
+        // If both are equal then we increment numGoodPairs.
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
                 if (nums[i] == nums[j]) {

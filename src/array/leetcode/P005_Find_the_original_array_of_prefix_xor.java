@@ -19,7 +19,7 @@ public class P005_Find_the_original_array_of_prefix_xor {
         System.out.println("Original array : " + Arrays.toString(findArray(pref2)));
     }
 
-    // SOLUTION USING LOOP - time complexity - O(n)
+    // SOLUTION USING LOOP - time complexity : O(n)
     public static int[] findArray(int[] pref) {
         int[] originalArr = new int[pref.length];
         // XOR of first element will be the element itself.
@@ -29,7 +29,7 @@ public class P005_Find_the_original_array_of_prefix_xor {
         // to get 2, we need to perform 2 ^ 0
         // to get 3, we need to perform 0 ^ 3
         // to get 2, we need to perform 3 ^ 1
-        // i.e. we are performing the XOR operation of the (i-1)th element with ith element
+        // i.e. we are performing the XOR operation of the (i-1)th element with ith element.
         for (int i = 1; i < originalArr.length; i++) {
             originalArr[i] = pref[i - 1] ^ pref[i];
         }

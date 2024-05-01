@@ -26,7 +26,7 @@ public class P004_Shuffle_the_array {
     // SOLUTION USING LOOP - time complexity : O(n)
     public static int[] shuffle(int[] nums, int n) {
         int[] ans = new int[nums.length];
-        // Insert elements at 2*i and 2*i+1 positions
+        // Insert elements at 2*i and 2*i+1 positions.
         for (int i = 0; i < n; i++) {
             ans[2 * i] = nums[i];
             ans[2 * i + 1] = nums[i + n];

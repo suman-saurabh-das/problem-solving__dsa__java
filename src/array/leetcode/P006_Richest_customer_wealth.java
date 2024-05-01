@@ -21,16 +21,16 @@ public class P006_Richest_customer_wealth {
         System.out.println("Wealth of richest customer : " + maximumWealth(accounts3));
     }
 
-    // SOLUTION USING NESTED LOOPS - time complexity - O(n^2)
+    // SOLUTION USING NESTED LOOPS - time complexity : O(n^2)
     public static int maximumWealth(int[][] accounts) {
         int maxWealth = 0;
         for (int i = 0; i < accounts.length; i++) {
             int wealth = 0;
             for (int j = 0; j < accounts[i].length; j++) {
-                // Calculate the wealth of each customer
+                // Calculate the wealth of each customer.
                 wealth = wealth + accounts[i][j];
             }
-            // If customers wealth is greater than max wealth then update max wealth
+            // If customers wealth is greater than max wealth then update max wealth.
             if (wealth > maxWealth) {
                 maxWealth = wealth;
             }

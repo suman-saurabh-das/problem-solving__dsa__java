@@ -76,5 +76,18 @@
     "solvedOn" : "2024-04-30",
     "source": "leetcode",
     "topics" : ["Array", "Matrix"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2798",
+    "linkProblem": "https://leetcode.com/problems/number-of-employees-who-met-the-target/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P007_Number_of_employees_who_met_the_target.java",
+    "name": "Number of employees who met the target",
+    "serialNum": 7,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-01",
+    "source": "leetcode",
+    "topics" : ["Array"]
   }
 ]

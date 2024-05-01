@@ -22,9 +22,9 @@ public class P001_Concatenation_of_array {
     // SOLUTION USING LOOP - time complexity : O(n)
     public static int[] getConcatenation(int[] nums) {
         int n = nums.length;
-        // Array of length double the size of nums
+        // Array of length double the size of nums.
         int[] resultArray = new int[n * 2];
-        // Loop to insert elements at i and n+i positions
+        // Loop to insert elements at i and n+i positions.
         for (int i = 0; i < nums.length; i++) {
             resultArray[i] = nums[i];
             resultArray[i + n] = nums[i];
