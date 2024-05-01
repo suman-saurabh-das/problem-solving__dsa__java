@@ -12,6 +12,7 @@
 - 005 [Find the original array of prefix xor](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P005_Find_the_original_array_of_prefix_xor.java)
 - 006 [Richest customer wealth](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P006_Richest_customer_wealth.java)
 - 007 [Number of employees who met the target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P001_Concatenation_of_array.java)
+- 008 [Kids with the greatest number of candies](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P008_Kids_with_the_greatest_number_of_candies.java)
 </details>
 
 ## Credits
