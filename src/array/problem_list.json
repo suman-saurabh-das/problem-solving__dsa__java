@@ -102,5 +102,18 @@
     "solvedOn" : "2024-05-01",
     "source": "leetcode",
     "topics" : ["Array"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2824",
+    "linkProblem": "https://leetcode.com/problems/count-pairs-whose-sum-is-less-than-target/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P009_Count_pairs_whose_sum_is_less_than_target.java",
+    "name": "Count pairs whose sum is less than target",
+    "serialNum": 9,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-02",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Sorting", "Two Pointers"]
   }
 ]

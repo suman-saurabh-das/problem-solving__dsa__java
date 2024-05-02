@@ -13,6 +13,7 @@
 - 006 [Richest customer wealth](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P006_Richest_customer_wealth.java)
 - 007 [Number of employees who met the target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P001_Concatenation_of_array.java)
 - 008 [Kids with the greatest number of candies](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P008_Kids_with_the_greatest_number_of_candies.java)
+- 009 [Count pairs whose sum is less than target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P009_Count_pairs_whose_sum_is_less_than_target.java)
 </details>
 
 ## Credits
