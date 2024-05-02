@@ -115,5 +115,18 @@
     "solvedOn" : "2024-05-02",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Sorting", "Two Pointers"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1480",
+    "linkProblem": "https://leetcode.com/problems/running-sum-of-1d-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P010_Running_sum_of_1D_array.java",
+    "name": "Running sum of 1D array",
+    "serialNum": 10,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-02",
+    "source": "leetcode",
+    "topics" : ["Array", "Prefix Sum"]
   }
 ]
