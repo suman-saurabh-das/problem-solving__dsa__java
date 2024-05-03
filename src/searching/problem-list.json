@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-35",
+    "linkProblem": "https://leetcode.com/problems/search-insert-position/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P001_Search_insert.java",
+    "name": "Search insert position",
+    "serialNum": 1,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-03",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
+  }
+]

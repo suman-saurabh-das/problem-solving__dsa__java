@@ -17,6 +17,12 @@
 - 010 [Running sum of 1D array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P010_Running_sum_of_1D_array.java)
 </details>
 
+<details>
+<summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/searching">Searching</a></summary>
+
+- 001 [Search insert position](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P001_Search_insert.java)
+</details>
+
 ## Credits
 List of contributors:
 - [Saurabh Das](dsumansaurabh@gmail.com)
