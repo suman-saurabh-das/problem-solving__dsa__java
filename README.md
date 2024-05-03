@@ -21,6 +21,7 @@
 <summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/searching">Searching</a></summary>
 
 - 001 [Search insert position](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P001_Search_insert.java)
+- 002 [Find square root](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P002_Find_square_root.java)
 </details>
 
 ## Credits

@@ -11,5 +11,18 @@
     "solvedOn" : "2024-05-03",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-69",
+    "linkProblem": "https://leetcode.com/problems/sqrtx/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P002_Find_square_root.java",
+    "name": "Find square root",
+    "serialNum": 2,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-03",
+    "source": "leetcode",
+    "topics" : ["Binary Search", "Math"]
   }
 ]
