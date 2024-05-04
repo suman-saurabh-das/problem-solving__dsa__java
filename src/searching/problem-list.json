@@ -37,5 +37,18 @@
     "solvedOn" : "2024-05-04",
     "source": "leetcode",
     "topics" : ["Binary Search", "Interactive"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-374",
+    "linkProblem": "https://leetcode.com/problems/guess-number-higher-or-lower/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P004_Guess_number_higher_or_lower.java",
+    "name": "Guess number higher or lower",
+    "serialNum": 4,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-04",
+    "source": "leetcode",
+    "topics" : ["Binary Search", "Interactive"]
   }
 ]

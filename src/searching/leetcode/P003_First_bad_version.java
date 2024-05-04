@@ -13,7 +13,8 @@ package searching.leetcode;
 public class P003_First_bad_version {
     public static void main(String[] args) {
         // NOTE - This is an interactive problem hence it cannot be tested here fully.
-        // Test case 1 : n = 5, bad = 4 & Test case 1 : n = 1, bad = 1
+        // Test case 1 : n = 5, bad = 4
+        // Test case 1 : n = 1, bad = 1
         System.out.println("First bad version is : " + firstBadVersion(5));
     }
 
@@ -36,7 +37,7 @@ public class P003_First_bad_version {
         return start;
     }
 
-    // Internal implementation if isBadVersion()
+    // Internal implementation of isBadVersion()
     public static boolean isBadVersion(int version) {
         // Change the badVersion variable to test with different test cases
         int badVersion = 4;
