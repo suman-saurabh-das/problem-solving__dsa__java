@@ -27,20 +27,20 @@ public class P001_Search_insert_position {
         int start = 0, end = nums.length - 1;
         while (start <= end) {
             int mid = start + (end - start) / 2;
-            // If mid-element is greater than target, we need to check in left half
+            // If mid-element is greater than target, we need to check in left half.
             if (nums[mid] > target) {
                 end = mid - 1;
             }
-            // If mid-element is lesser than target, we need to check in right half
+            // If mid-element is lesser than target, we need to check in right half.
             else if (nums[mid] < target) {
                 start = mid + 1;
             }
-            // If mid element is equal to target, return mid
+            // If mid element is equal to target, return mid.
             else {
                 return mid;
             }
         }
-        // If element is not found return index where it should be inserted
+        // If element is not found return index where it should be inserted.
         return start;
     }
 }

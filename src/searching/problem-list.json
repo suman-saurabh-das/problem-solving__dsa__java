@@ -4,7 +4,7 @@
     "error": null,
     "id": "leetcode-35",
     "linkProblem": "https://leetcode.com/problems/search-insert-position/description/",
-    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P001_Search_insert.java",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P001_Search_insert_position.java",
     "name": "Search insert position",
     "serialNum": 1,
     "solutionAccepted": true,
@@ -24,5 +24,18 @@
     "solvedOn" : "2024-05-03",
     "source": "leetcode",
     "topics" : ["Binary Search", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-278",
+    "linkProblem": "https://leetcode.com/problems/first-bad-version/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P003_First_bad_version.java",
+    "name": "First bad version",
+    "serialNum": 3,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-04",
+    "source": "leetcode",
+    "topics" : ["Binary Search", "Interactive"]
   }
 ]

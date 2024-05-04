@@ -18,25 +18,25 @@ public class P002_Find_square_root {
     }
 
     // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
-    // Gives out of memory error for x = 2147395599 if we use int, so we use long then convert it into int
+    // Gives out of memory error for x = 2147395599 if we use int, so we use long then convert it into int.
     public static int mySqrt(int x) {
         long start = 0, end = x;
         while (start <= end) {
             long mid = start + (end - start) / 2;
-            // Check for numbers greater than mid
+            // Check for numbers greater than mid.
             if (mid * mid < x) {
                 start = mid + 1;
             }
-            // Check for numbers smaller than mid
+            // Check for numbers smaller than mid.
             else if (mid * mid > x) {
                 end = mid - 1;
             }
-            // Number is a perfect square
+            // Number is a perfect square.
             else {
                 return (int) mid;
             }
         }
-        // If perfect square of number is not present, we return the rounded off value
+        // If perfect square of number is not present, we return the rounded off value.
         return (int) end;
     }
 }
