@@ -50,5 +50,18 @@
     "solvedOn" : "2024-05-04",
     "source": "leetcode",
     "topics" : ["Binary Search", "Interactive"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-367",
+    "linkProblem": "https://leetcode.com/problems/valid-perfect-square/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P005_Valid_perfect_square.java",
+    "name": "Valid perfect square",
+    "serialNum": 5,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-04",
+    "source": "leetcode",
+    "topics" : ["Binary Search", "Math"]
   }
 ]
