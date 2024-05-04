@@ -63,5 +63,18 @@
     "solvedOn" : "2024-05-04",
     "source": "leetcode",
     "topics" : ["Binary Search", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-441",
+    "linkProblem": "https://leetcode.com/problems/arranging-coins/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P006_Arranging_coins.java",
+    "name": "Arranging coins",
+    "serialNum": 6,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-04",
+    "source": "leetcode",
+    "topics" : ["Binary Search", "Math"]
   }
 ]

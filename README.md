@@ -3,7 +3,7 @@
 ## Leetcode
 
 <details>
-<summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/array">Arrays</a></summary>
+<summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/array">Array</a></summary>
 
 - 001 [Concatenation of array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P001_Concatenation_of_array.java)
 - 002 [Build array from permutation](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P002_Build_array_from_permutation.java)
@@ -18,6 +18,12 @@
 </details>
 
 <details>
+<summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/math">Math</a></summary>
+
+- 001 [Arranging coins](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P001_Arranging_coins.java)
+</details>
+
+<details>
 <summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/searching">Searching</a></summary>
 
 - 001 [Search insert position](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P001_Search_insert_position.java)
@@ -25,6 +31,7 @@
 - 003 [First bad version](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P003_First_bad_version.java)
 - 004 [Guess number higher or lower](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P004_Guess_number_higher_or_lower.java)
 - 005 [Valid perfect square](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P005_Valid_perfect_square.java)
+- 006 [Arranging coins](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P006_Arranging_coins.java)
 </details>
 
 ## Credits
