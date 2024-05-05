@@ -33,6 +33,7 @@
 - 005 [Valid perfect square](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P005_Valid_perfect_square.java)
 - 006 [Arranging coins](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P006_Arranging_coins.java)
 - 007 [Binary search](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P007_Binary_search.java)
+- 008 [Check if n and its double exist](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P008_Check_if_n_and_its_double_exist.java)
 </details>
 
 ## Credits
