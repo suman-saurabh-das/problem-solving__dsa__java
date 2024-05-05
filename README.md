@@ -32,6 +32,7 @@
 - 004 [Guess number higher or lower](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P004_Guess_number_higher_or_lower.java)
 - 005 [Valid perfect square](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P005_Valid_perfect_square.java)
 - 006 [Arranging coins](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P006_Arranging_coins.java)
+- 007 [Binary search](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P007_Binary_search.java)
 </details>
 
 ## Credits

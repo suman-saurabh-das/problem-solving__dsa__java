@@ -76,5 +76,18 @@
     "solvedOn" : "2024-05-04",
     "source": "leetcode",
     "topics" : ["Binary Search", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-704",
+    "linkProblem": "https://leetcode.com/problems/binary-search/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P007_Binary_search.java",
+    "name": "Binary search",
+    "serialNum": 7,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-05",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
   }
 ]
