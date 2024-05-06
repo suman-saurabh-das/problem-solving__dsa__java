@@ -35,6 +35,7 @@
 - 007 [Binary search](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P007_Binary_search.java)
 - 008 [Check if n and its double exist](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P008_Check_if_n_and_its_double_exist.java)
 - 009 [Maximum count of positive integer and negative integer](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P009_Maximum_count_of_positive_and_negative_integer.java)
+- 010 [Find smallest letter greater than target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P010_Find_smallest_letter_greater_than_target.java)
 </details>
 
 ## Credits

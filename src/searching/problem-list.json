@@ -115,5 +115,18 @@
     "solvedOn" : "2024-05-06",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Counting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-744",
+    "linkProblem": "https://leetcode.com/problems/find-smallest-letter-greater-than-target/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P010_Find_smallest_letter_greater_than_target.java",
+    "name": "Find smallest letter greater than target",
+    "serialNum": 10,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-06",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
   }
 ]
