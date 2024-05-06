@@ -34,6 +34,7 @@
 - 006 [Arranging coins](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P006_Arranging_coins.java)
 - 007 [Binary search](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P007_Binary_search.java)
 - 008 [Check if n and its double exist](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P008_Check_if_n_and_its_double_exist.java)
+- 009 [Maximum count of positive integer and negative integer](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P009_Maximum_count_of_positive_and_negative_integer.java)
 </details>
 
 ## Credits
