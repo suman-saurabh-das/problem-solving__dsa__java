@@ -38,6 +38,12 @@
 - 010 [Find smallest letter greater than target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P010_Find_smallest_letter_greater_than_target.java)
 </details>
 
+<details>
+<summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/sorting">Sorting</a></summary>
+
+- 001 [Majority element](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P001_Majority_element.java)
+</details>
+
 ## Credits
 List of contributors:
 - [Saurabh Das](dsumansaurabh@gmail.com)

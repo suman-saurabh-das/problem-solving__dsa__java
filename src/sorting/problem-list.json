@@ -1,0 +1,15 @@
+[
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-169",
+    "linkProblem": "https://leetcode.com/problems/majority-element/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P001_Majority_element.java",
+    "name": "Majority element",
+    "serialNum": 1,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-07",
+    "source": "leetcode",
+    "topics" : ["Array", "Counting", "Divide and Conquer", "Hash Table", "Sorting"]
+  }
+]
