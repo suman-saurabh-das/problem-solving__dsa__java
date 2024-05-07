@@ -42,6 +42,7 @@
 <summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/sorting">Sorting</a></summary>
 
 - 001 [Majority element](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P001_Majority_element.java)
+- 002 []
 </details>
 
 ## Credits

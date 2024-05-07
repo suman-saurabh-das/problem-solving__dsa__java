@@ -11,5 +11,18 @@
     "solvedOn" : "2024-05-07",
     "source": "leetcode",
     "topics" : ["Array", "Counting", "Divide and Conquer", "Hash Table", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": "Time limit exceeded",
+    "id": "leetcode-217",
+    "linkProblem": "https://leetcode.com/problems/contains-duplicate/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P002_Contains_duplicate.java",
+    "name": "Contains duplicate",
+    "serialNum": 2,
+    "solutionAccepted": false,
+    "solvedOn" : "2024-05-07",
+    "source": "leetcode",
+    "topics" : ["Array", "Hash Table", "Sorting"]
   }
 ]
