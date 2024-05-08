@@ -24,5 +24,18 @@
     "solvedOn" : "2024-05-07",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1637",
+    "linkProblem": "https://leetcode.com/problems/widest-vertical-area-between-two-points-containing-no-points/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P003_Widest_vertical_area_between_two_points_containing_no_points.java",
+    "name": "Widest vertical area between two points containing no points",
+    "serialNum": 3,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-08",
+    "source": "leetcode",
+    "topics" : ["Array", "Sorting"]
   }
 ]

@@ -57,7 +57,7 @@ public class P002_Contains_duplicate {
         return maxElementIndex;
     }
 
-    // Swap array elements based on index.
+    // Swap array elements using index.
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];
         arr[index1] = arr[index2];
