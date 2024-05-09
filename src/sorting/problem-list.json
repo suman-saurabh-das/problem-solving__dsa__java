@@ -50,5 +50,18 @@
     "solvedOn" : "2024-05-08",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-88",
+    "linkProblem": "https://leetcode.com/problems/merge-sorted-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P005_Merge_sorted_array.java",
+    "name": "Merge sorted array",
+    "serialNum": 5,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-09",
+    "source": "leetcode",
+    "topics" : ["Array", "Sorting", "Two Pointers"]
   }
 ]
