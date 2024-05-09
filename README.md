@@ -41,11 +41,12 @@
 <details>
 <summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/sorting">Sorting</a></summary>
 
-- 001 [Majority element](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P001_Majority_element.java)
-- 002 [Contains duplicate](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P002_Contains_duplicate.java)
-- 003 [Widest vertical area between two points containing no points](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P003_Widest_vertical_area_between_two_points_containing_no_points.java)
-- 004 [Find target indices after sorting array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P004_Find_target_indices_after_sorting_array.java)
-- 005 [Merge sorted array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P005_Merge_sorted_array.java)
+- 001 [Majority element](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P001_Majority_element.java)
+- 002 [Contains duplicate](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P002_Contains_duplicate.java)
+- 003 [Widest vertical area between two points containing no points](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P003_Widest_vertical_area_between_two_points_containing_no_points.java)
+- 004 [Find target indices after sorting array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P004_Find_target_indices_after_sorting_array.java)
+- 005 [Merge sorted array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P005_Merge_sorted_array.java)
+- 006 [Valid anagram](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P005_Merge_sorted_array.java)
 </details>
 
 ## Credits
