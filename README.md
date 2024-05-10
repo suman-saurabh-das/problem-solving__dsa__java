@@ -48,6 +48,7 @@
 - 005 [Merge sorted array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P005_Merge_sorted_array.java)
 - 006 [Valid anagram](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P006_Valid_anagram.java)
 - 007 [Sort the students by their Kth score](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P007_Sort_the_students_by_their_Kth_score.java)
+- 008 [](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P008_Maximum_number_of_coins_you_can_get.java)
 </details>
 
 ## Credits
