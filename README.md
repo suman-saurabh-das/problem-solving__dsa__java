@@ -46,7 +46,8 @@
 - 003 [Widest vertical area between two points containing no points](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P003_Widest_vertical_area_between_two_points_containing_no_points.java)
 - 004 [Find target indices after sorting array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P004_Find_target_indices_after_sorting_array.java)
 - 005 [Merge sorted array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P005_Merge_sorted_array.java)
-- 006 [Valid anagram](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P005_Merge_sorted_array.java)
+- 006 [Valid anagram](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P006_Valid_anagram.java)
+- 007 [Sort the students by their Kth score](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P007_Sort_the_students_by_their_Kth_score.java)
 </details>
 
 ## Credits

@@ -56,7 +56,7 @@
     "error": null,
     "id": "leetcode-88",
     "linkProblem": "https://leetcode.com/problems/merge-sorted-array/description/",
-    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P006_Valid_anagram.java",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P005_Merge_sorted_array.java",
     "name": "Merge sorted array",
     "serialNum": 5,
     "solutionAccepted": true,
@@ -69,12 +69,25 @@
     "error": null,
     "id": "leetcode-242",
     "linkProblem": "https://leetcode.com/problems/valid-anagram/description/",
-    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P005_Merge_sorted_array.java",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P006_Valid_anagram.java",
     "name": "Valid anagram",
     "serialNum": 6,
     "solutionAccepted": true,
     "solvedOn" : "2024-05-09",
     "source": "leetcode",
     "topics" : ["Hash Table", "Sorting", "String"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-2545",
+    "linkProblem": "https://leetcode.com/problems/sort-the-students-by-their-kth-score/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P007_Sort_the_students_by_their_Kth_score.java",
+    "name": "Sort the students by their Kth score",
+    "serialNum": 7,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-10",
+    "source": "leetcode",
+    "topics" : ["Array", "Matrix", "Sorting"]
   }
 ]
