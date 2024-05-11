@@ -102,5 +102,18 @@
     "solvedOn" : "2024-05-10",
     "source": "leetcode",
     "topics" : ["Array", "Game Theory", "Greedy", "Math","Sorting"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-1630",
+    "linkProblem": "https://leetcode.com/problems/arithmetic-subarrays/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P009_Arithmetic_subarrays.java",
+    "name": "Arithmetic subarrays",
+    "serialNum": 9,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-11",
+    "source": "leetcode",
+    "topics" : ["Array", "Hash Table","Sorting"]
   }
 ]
