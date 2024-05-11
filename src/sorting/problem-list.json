@@ -115,5 +115,18 @@
     "solvedOn" : "2024-05-11",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table","Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-268",
+    "linkProblem": "https://leetcode.com/problems/missing-number/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P010_Missing_number.java",
+    "name": "Missing number",
+    "serialNum": 10,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-11",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Bit Manipulation", "Hash Table", "Math", "Sorting"]
   }
 ]
