@@ -53,6 +53,13 @@
 - 010 [Missing number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P010_Missing_number.java)
 </details>
 
+<details>
+<summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/string">String</a></summary>
+
+- 001 [Defanging an IP address](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P001_Defanging_an_IP_address.java)
+
+</details>
+
 ## Credits
 List of contributors:
 - [Saurabh Das](dsumansaurabh@gmail.com)
