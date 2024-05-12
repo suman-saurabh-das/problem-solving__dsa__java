@@ -11,5 +11,18 @@
     "solvedOn" : "2024-05-12",
     "source": "leetcode",
     "topics" : ["String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2011",
+    "linkProblem": "https://leetcode.com/problems/final-value-of-variable-after-performing-operations/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P002_Final_value_of_variable_after_performing_operations.java",
+    "name": "Final value of variable after performing operations",
+    "serialNum": 2,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-12",
+    "source": "leetcode",
+    "topics" : ["Array", "Simulation", "String"]
   }
 ]

@@ -21,6 +21,7 @@
 <summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/math">Math</a></summary>
 
 - 001 [Arranging coins](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P001_Arranging_coins.java)
+- 002 [Final value of variable after performing operations](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P002_Final_value_of_variable_after_performing_operations.java)
 </details>
 
 <details>
