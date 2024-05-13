@@ -37,5 +37,18 @@
     "solvedOn" : "2024-05-13",
     "source": "leetcode",
     "topics" : ["Greedy", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-771",
+    "linkProblem": "https://leetcode.com/problems/jewels-and-stones/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P004_Jewels_and_stones.java",
+    "name": "Jewels and stones",
+    "serialNum": 4,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-13",
+    "source": "leetcode",
+    "topics" : ["Hash Table", "String"]
   }
 ]

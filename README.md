@@ -60,6 +60,7 @@
 - 001 [Defanging an IP address](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P001_Defanging_an_IP_address.java)
 - 002 [Final value of variable after performing operations](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P002_Final_value_of_variable_after_performing_operations.java)
 - 003 [Partitioning into minimum number of deci-binary numbers](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P003_Partitioning_into_minimum_number_of_deci_binary_numbers.java)
+- 004 [Jewels and stones](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P004_Jewels_and_stones.java)
 
 </details>
 
