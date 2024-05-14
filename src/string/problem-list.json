@@ -50,5 +50,18 @@
     "solvedOn" : "2024-05-13",
     "source": "leetcode",
     "topics" : ["Hash Table", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2942",
+    "linkProblem": "https://leetcode.com/problems/find-words-containing-character/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P005_Find_words_containing_characters.java",
+    "name": "Find words containing character",
+    "serialNum": 5,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-14",
+    "source": "leetcode",
+    "topics" : ["Array", "String"]
   }
 ]

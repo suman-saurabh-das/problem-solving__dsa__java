@@ -61,6 +61,7 @@
 - 002 [Final value of variable after performing operations](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P002_Final_value_of_variable_after_performing_operations.java)
 - 003 [Partitioning into minimum number of deci-binary numbers](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P003_Partitioning_into_minimum_number_of_deci_binary_numbers.java)
 - 004 [Jewels and stones](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P004_Jewels_and_stones.java)
+- 005 [Find words containing character](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P005_Find_words_containing_characters.java)
 
 </details>
 
