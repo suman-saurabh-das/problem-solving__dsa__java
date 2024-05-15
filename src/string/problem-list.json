@@ -89,5 +89,18 @@
     "solvedOn" : "2024-05-15",
     "source": "leetcode",
     "topics" : ["Array", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1221",
+    "linkProblem": "https://leetcode.com/problems/split-a-string-in-balanced-strings/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P008_Split_a_string_balanced_strings.java",
+    "name": "Split a string in balanced strings",
+    "serialNum": 8,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-15",
+    "source": "leetcode",
+    "topics" : ["Counting", "Greedy", "String"]
   }
 ]
