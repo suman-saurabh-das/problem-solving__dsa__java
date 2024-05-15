@@ -76,5 +76,18 @@
     "solvedOn" : "2024-05-14",
     "source": "leetcode",
     "topics" : ["String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2114",
+    "linkProblem": "https://leetcode.com/problems/maximum-number-of-words-found-in-sentences/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P007_Maximum_number_of_words_found_in_sentences.java",
+    "name": "Maximum number of words found in sentences",
+    "serialNum": 7,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-15",
+    "source": "leetcode",
+    "topics" : ["Array", "String"]
   }
 ]
