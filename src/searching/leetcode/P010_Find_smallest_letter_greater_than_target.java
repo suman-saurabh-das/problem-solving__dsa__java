@@ -26,8 +26,8 @@ public class P010_Find_smallest_letter_greater_than_target {
         int start = 0, end = letters.length - 1;
         while (start <= end) {
             int mid = start + (end - start) / 2;
-            // If target is greater than or equal to arr[mid], ans will lie in right half
-            // If target is lesser than arr[mid], ans will lie in left half
+            // If target is greater than or equal to arr[mid], ans will lie in right half.
+            // If target is lesser than arr[mid], ans will lie in left half.
             if (letters[mid] <= target) {
                 start = mid + 1;
             } else {
@@ -35,7 +35,7 @@ public class P010_Find_smallest_letter_greater_than_target {
             }
         }
         // If no character greater than target exist then start will become equal to arr.length
-        // So we can take the % of start and arr.length to get the start element
+        // So we can take the % of start and arr.length to get the start element.
         return letters[start % letters.length];
     }
 }

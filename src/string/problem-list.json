@@ -102,5 +102,18 @@
     "solvedOn" : "2024-05-15",
     "source": "leetcode",
     "topics" : ["Counting", "Greedy", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-14",
+    "linkProblem": "https://leetcode.com/problems/longest-common-prefix/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P009_Longest_common_prefix.java",
+    "name": "Longest common prefix",
+    "serialNum": 9,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-16",
+    "source": "leetcode",
+    "topics" : ["String", "Trie"]
   }
 ]

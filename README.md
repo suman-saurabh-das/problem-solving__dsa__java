@@ -65,6 +65,7 @@
 - 006 [Goal parser interpretation](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P006_Goal_parser_interpretation.java)
 - 007 [Maximum number of words found in sentences](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P007_Maximum_number_of_words_found_in_sentences.java)
 - 008 [Split a string in balanced strings](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P008_Split_a_string_balanced_strings.java)
+- 009 [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/description/)
 
 </details>
 

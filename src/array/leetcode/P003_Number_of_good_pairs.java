@@ -23,7 +23,7 @@ public class P003_Number_of_good_pairs {
     // SOLUTION USING NESTED LOOPS - time complexity : O(n^2)
     public static int numIdenticalPairs(int[] nums) {
         int numGoodPairs = 0;
-        // Using 2 for loops, compare the elements at index i and j
+        // Using 2 for loops, compare the elements at index i and j && (i < j)
         // If both are equal then we increment numGoodPairs.
         for (int i = 0; i < nums.length; i++) {
             for (int j = i + 1; j < nums.length; j++) {
