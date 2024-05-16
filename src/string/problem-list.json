@@ -115,5 +115,18 @@
     "solvedOn" : "2024-05-16",
     "source": "leetcode",
     "topics" : ["String", "Trie"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-28",
+    "linkProblem": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P010_Find_the_index_of_the_first_occurrence_in_a_string.java",
+    "name": "Find the index of the first occurrence in a string",
+    "serialNum": 10,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-16",
+    "source": "leetcode",
+    "topics" : ["String", "String Matching", "Two Pointers"]
   }
 ]
