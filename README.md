@@ -11,18 +11,18 @@
 - 004 [Shuffle the array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P004_Shuffle_the_array.java)
 - 005 [Find the original array of prefix xor](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P005_Find_the_original_array_of_prefix_xor.java)
 - 006 [Richest customer wealth](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P006_Richest_customer_wealth.java)
-- 007 [Number of employees who met the target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P001_Concatenation_of_array.java)
+- 007 [Number of employees who met the target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P007_Number_of_employees_who_met_the_target.java)
 - 008 [Kids with the greatest number of candies](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P008_Kids_with_the_greatest_number_of_candies.java)
 - 009 [Count pairs whose sum is less than target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P009_Count_pairs_whose_sum_is_less_than_target.java)
 - 010 [Running sum of 1D array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P010_Running_sum_of_1D_array.java)
 - 011 [Maximum count of positive integer and negative integer](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P011_Maximum_count_of_positive_and_negative_integer.java)
+- 012 [Find numbers with even number of digits](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P012_Find_numbers_with_even_number_of_digits.java)
 </details>
 
 <details>
 <summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/math">Math</a></summary>
 
 - 001 [Arranging coins](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P001_Arranging_coins.java)
-- 002 [Final value of variable after performing operations](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P002_Final_value_of_variable_after_performing_operations.java)
 </details>
 
 <details>
@@ -66,7 +66,7 @@
 - 006 [Goal parser interpretation](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P006_Goal_parser_interpretation.java)
 - 007 [Maximum number of words found in sentences](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P007_Maximum_number_of_words_found_in_sentences.java)
 - 008 [Split a string in balanced strings](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P008_Split_a_string_balanced_strings.java)
-- 009 [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/description/)
+- 009 [Longest common prefix](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P009_Longest_common_prefix.java)
 - 010 [Find the index of the first occurrence in a string](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P010_Find_the_index_of_the_first_occurrence_in_a_string.java)
 
 </details>

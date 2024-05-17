@@ -141,5 +141,18 @@
     "solvedOn" : "2024-05-17",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Counting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1295",
+    "linkProblem": "https://leetcode.com/problems/find-numbers-with-even-number-of-digits/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P012_Find_numbers_with_even_number_of_digits.java",
+    "name": "Find numbers with even number of digits",
+    "serialNum": 12,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-17",
+    "source": "leetcode",
+    "topics" : ["Array"]
   }
 ]
