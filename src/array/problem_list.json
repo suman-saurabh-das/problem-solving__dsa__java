@@ -128,5 +128,18 @@
     "solvedOn" : "2024-05-02",
     "source": "leetcode",
     "topics" : ["Array", "Prefix Sum"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2529",
+    "linkProblem": "https://leetcode.com/problems/maximum-count-of-positive-integer-and-negative-integer/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P011_Maximum_count_of_positive_and_negative_integer.java",
+    "name": "Maximum count of positive integer and negative integer",
+    "serialNum": 11,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-17",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Counting"]
   }
 ]

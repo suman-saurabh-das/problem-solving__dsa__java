@@ -15,6 +15,7 @@
 - 008 [Kids with the greatest number of candies](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P008_Kids_with_the_greatest_number_of_candies.java)
 - 009 [Count pairs whose sum is less than target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P009_Count_pairs_whose_sum_is_less_than_target.java)
 - 010 [Running sum of 1D array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P010_Running_sum_of_1D_array.java)
+- 011 [Maximum count of positive integer and negative integer](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P011_Maximum_count_of_positive_and_negative_integer.java)
 </details>
 
 <details>
@@ -66,7 +67,7 @@
 - 007 [Maximum number of words found in sentences](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P007_Maximum_number_of_words_found_in_sentences.java)
 - 008 [Split a string in balanced strings](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P008_Split_a_string_balanced_strings.java)
 - 009 [Longest common prefix](https://leetcode.com/problems/longest-common-prefix/description/)
-- 010 [Find the index of the first occurrence in a string]()
+- 010 [Find the index of the first occurrence in a string](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P010_Find_the_index_of_the_first_occurrence_in_a_string.java)
 
 </details>
 

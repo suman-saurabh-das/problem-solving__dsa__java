@@ -43,7 +43,7 @@ public class P007_Maximum_number_of_words_found_in_sentences {
         return numSpaces + 1;
     }
 
-    // ALTERNATIVE SOLUTION USING LOOP - time complexity - O(n^2)
+    // ALTERNATIVE SOLUTION USING LOOP - time complexity : O(n^2)
     // Here time complexity is O(n^2) because split(),
     // internally uses a loop to find all occurrence of delimiter.
     public static int mostWordsFound2(String[] sentences) {
