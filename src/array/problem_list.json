@@ -167,5 +167,18 @@
     "solvedOn" : "2024-05-18",
     "source": "leetcode",
     "topics" : ["Array", "Matrix"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1365",
+    "linkProblem": "https://leetcode.com/problems/largest-local-values-in-a-matrix/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P014_How_many_numbers_are_smaller_than_the_current_number.java",
+    "name": "How many numbers are smaller than the current number",
+    "serialNum": 14,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-18",
+    "source": "leetcode",
+    "topics" : ["Array", "Counting", "Hash Table", "Sorting"]
   }
 ]
