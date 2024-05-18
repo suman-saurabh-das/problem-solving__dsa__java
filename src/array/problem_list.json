@@ -154,5 +154,18 @@
     "solvedOn" : "2024-05-17",
     "source": "leetcode",
     "topics" : ["Array"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2373",
+    "linkProblem": "https://leetcode.com/problems/largest-local-values-in-a-matrix/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P013_Largest_local_values_in_a_matrix.java",
+    "name": "Largest local values in a matrix",
+    "serialNum": 13,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-18",
+    "source": "leetcode",
+    "topics" : ["Array", "Matrix"]
   }
 ]
