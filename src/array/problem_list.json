@@ -180,5 +180,18 @@
     "solvedOn" : "2024-05-18",
     "source": "leetcode",
     "topics" : ["Array", "Counting", "Hash Table", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2574",
+    "linkProblem": "https://leetcode.com/problems/left-and-right-sum-differences/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P015_Left_and_right_sum_differences.java",
+    "name": "Left and right sum differences",
+    "serialNum": 15,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-19",
+    "source": "leetcode",
+    "topics" : ["Array", "Prefix Sum"]
   }
 ]
