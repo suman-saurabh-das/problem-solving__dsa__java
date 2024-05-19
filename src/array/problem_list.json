@@ -193,5 +193,18 @@
     "solvedOn" : "2024-05-19",
     "source": "leetcode",
     "topics" : ["Array", "Prefix Sum"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-807",
+    "linkProblem": "https://leetcode.com/problems/max-increase-to-keep-city-skyline/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P016_Max_increase_to_keep_city_skyline.java",
+    "name": "Max increase to keep city skyline",
+    "serialNum": 16,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-19",
+    "source": "leetcode",
+    "topics" : ["Array", "Greedy", "Matrix"]
   }
 ]
