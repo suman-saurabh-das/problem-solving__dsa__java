@@ -219,5 +219,18 @@
     "solvedOn" : "2024-05-20",
     "source": "leetcode",
     "topics" : ["Array", "Simulation"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-1769",
+    "linkProblem": "https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P018_Minimum_number_of_operations_to_move_all_balls_to_each_box.java",
+    "name": "Minimum number of operations to move all balls to each box",
+    "serialNum": 18,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-20",
+    "source": "leetcode",
+    "topics" : ["Array", "String"]
   }
 ]

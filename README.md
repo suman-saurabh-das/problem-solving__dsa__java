@@ -22,6 +22,7 @@
 - 015 [Left and right sum differences](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P015_Left_and_right_sum_differences.java)
 - 016 [Max increase to keep city skyline](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P016_Max_increase_to_keep_city_skyline.java)
 - 017 [Create target array in the given order](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P017_Create_target_array_in_given_order.java)
+- 018 [Minimum number of operations to move all balls to each box](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P018_Minimum_number_of_operations_to_move_all_balls_to_each_box.java)
 </details>
 
 <details>
