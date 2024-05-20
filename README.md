@@ -21,6 +21,7 @@
 - 014 [How many numbers are smaller than the current number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P014_How_many_numbers_are_smaller_than_the_current_number.java)
 - 015 [Left and right sum differences](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P015_Left_and_right_sum_differences.java)
 - 016 [Max increase to keep city skyline](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P016_Max_increase_to_keep_city_skyline.java)
+- 017 [Create target array in the given order](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P017_Create_target_array_in_given_order.java)
 </details>
 
 <details>

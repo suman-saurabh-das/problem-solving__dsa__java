@@ -206,5 +206,18 @@
     "solvedOn" : "2024-05-19",
     "source": "leetcode",
     "topics" : ["Array", "Greedy", "Matrix"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1389",
+    "linkProblem": "https://leetcode.com/problems/create-target-array-in-the-given-order/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P017_Create_target_array_in_given_order.java",
+    "name": "Create target array in the given order",
+    "serialNum": 17,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-20",
+    "source": "leetcode",
+    "topics" : ["Array", "Simulation"]
   }
 ]
