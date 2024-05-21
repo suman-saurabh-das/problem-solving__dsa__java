@@ -20,7 +20,8 @@ public class P011_Maximum_count_of_positive_and_negative_integer {
         System.out.println("Maximum count is : " + maximumCount(nums3));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity: O(1)
     public static int maximumCount(int[] nums) {
         int posNumCount = 0, negNumCount = 0;
         for (int i = 0; i < nums.length; i++) {

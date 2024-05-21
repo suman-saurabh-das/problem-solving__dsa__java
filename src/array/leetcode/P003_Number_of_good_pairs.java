@@ -20,7 +20,8 @@ public class P003_Number_of_good_pairs {
         System.out.println("Number of good pairs : " + numIdenticalPairs(nums3));
     }
 
-    // SOLUTION USING NESTED LOOPS - time complexity : O(n^2)
+    // SOLUTION USING NESTED LOOPS
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static int numIdenticalPairs(int[] nums) {
         int numGoodPairs = 0;
         // Using 2 for loops, compare the elements at index i and j && (i < j)

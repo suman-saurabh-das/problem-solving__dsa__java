@@ -19,7 +19,8 @@ public class P005_Find_the_original_array_of_prefix_xor {
         System.out.println("Original array : " + Arrays.toString(findArray(pref2)));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(n)
     public static int[] findArray(int[] pref) {
         int[] originalArr = new int[pref.length];
         // XOR of first element will be the element itself.

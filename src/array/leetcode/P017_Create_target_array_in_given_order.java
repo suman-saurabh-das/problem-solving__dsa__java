@@ -23,7 +23,8 @@ public class P017_Create_target_array_in_given_order {
         System.out.println("Target array is : " + Arrays.toString(createTargetArray(nums3, indexes3)));
     }
 
-    // SOLUTION USING NESTED LOOP - time complexity : O(n^2)
+    // SOLUTION USING NESTED LOOP
+    // Time complexity : O(n²) | Space complexity : O(n)
     public static int[] createTargetArray(int[] nums, int[] index) {
         // Create a new array to fill the elements.
         int[] targetArr = new int[nums.length];

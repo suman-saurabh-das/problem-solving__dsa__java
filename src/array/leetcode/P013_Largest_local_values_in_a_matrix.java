@@ -26,7 +26,8 @@ public class P013_Largest_local_values_in_a_matrix {
         }
     }
 
-    // SOLUTION USING NESTED LOOPS - time complexity : O(n^4)
+    // SOLUTION USING NESTED LOOPS
+    // Time complexity : O(n²) | Space complexity : O (n²)
     public static int[][] largestLocal(int[][] grid) {
         int[][] maxLocalArr = new int[grid.length - 2][grid.length - 2];
         // We need to find max element in all possible 3x3 matrix that,
@@ -47,7 +48,9 @@ public class P013_Largest_local_values_in_a_matrix {
         return maxLocalArr;
     }
 
-    // Find maximum element in 3x3 matrix
+    // Find maximum element in 3x3 matrix.
+    // Time complexity : O(1) | Space complexity : O(1)
+    // since size of sub matrix is constant i.e. 3 * 3
     public static int findMaxElement(int[][] grid, int rowStart, int rowEnd, int colStart, int colEnd) {
         int maxVal = 0;
         for (int i = rowStart; i < rowEnd; i++) {

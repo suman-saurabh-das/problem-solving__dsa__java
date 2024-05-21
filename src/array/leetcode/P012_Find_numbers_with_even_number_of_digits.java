@@ -17,11 +17,12 @@ public class P012_Find_numbers_with_even_number_of_digits {
         System.out.println("Numbers with even number of digits : " + findNumbers(nums2));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity: O(1)
     // Using optimized method to find number of digits in a number.
     public static int findNumbers(int[] nums) {
-        // Check for every element in nums. If it has even number,
-        // of digits, then increment numsWithEvenNumOfDigits.
+        // Check for every element in nums. If it has even number of digits,
+        // then increment numsWithEvenNumOfDigits.
         int numsWithEvenNumOfDigits = 0;
         for (int i = 0; i < nums.length; i++) {
             int numOfDigits = findNumOfDigits2(nums[i]);
@@ -32,12 +33,14 @@ public class P012_Find_numbers_with_even_number_of_digits {
         return numsWithEvenNumOfDigits;
     }
 
-    // Check if number is even - time complexity : O(1)
+    // Check if number is even.
+    // Time complexity : O(1) | Space complexity: O(1)
     public static boolean checkNumIsEven(int num) {
         return num % 2 == 0;
     }
 
-    // Find number of digits in a number - time complexity : O(n)
+    // Find number of digits in a number.
+    // Time complexity : O(n) | Space complexity: O(1)
     public static int findNumOfDigits(int num) {
         if (num == 0) {
             return 1;
@@ -50,7 +53,8 @@ public class P012_Find_numbers_with_even_number_of_digits {
         return numOfDigits;
     }
 
-    // Optimized method : Find number of digits in a number - time complexity : O(1)
+    // Optimized method : Find number of digits in a number.
+    // Time complexity : O(1) | Space complexity: O(1)
     public static int findNumOfDigits2(int num) {
         if (num < 0) {
             num = num * -1;

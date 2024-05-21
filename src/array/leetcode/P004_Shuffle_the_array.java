@@ -23,7 +23,8 @@ public class P004_Shuffle_the_array {
         System.out.println("Shuffled array : " + Arrays.toString(shuffle(nums3, n3)));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(n)
     public static int[] shuffle(int[] nums, int n) {
         int[] ans = new int[nums.length];
         // Insert elements at 2*i and 2*i+1 positions.

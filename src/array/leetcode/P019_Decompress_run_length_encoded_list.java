@@ -21,7 +21,7 @@ public class P019_Decompress_run_length_encoded_list {
     }
 
     // SOLUTION USING NESTED LOOPS
-    // Time complexity : O(n+m) | Space complexity : O(m)
+    // Time complexity : O(n + m) | Space complexity : O(m)
     // where n - length of nums array, m - total number of elements to add.
     public static int[] decompressRLElist(int[] nums) {
         // Array list to store the values, based on the frequency.

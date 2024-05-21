@@ -18,7 +18,7 @@ public class P016_Max_increase_to_keep_city_skyline {
     }
 
     // SOLUTION USING NESTED LOOPS
-    // Time complexity : O(n^2), Space complexity : O(n)
+    // Time complexity : O(n²) | Space complexity : O(n)
     public static int maxIncreaseKeepingSkyline(int[][] grid) {
         int maxHeight = 0;
         int[] maxRowArr = new int[grid.length];
@@ -40,8 +40,8 @@ public class P016_Max_increase_to_keep_city_skyline {
         // between the maximum height of building in that particular row/col.
         for (int i = 0; i < grid.length; i++) {
             for (int j = 0; j < grid.length; j++) {
-                // Calculating the maximum possible height of each building and adding it to maxHeight
-                // Check if the minimum value is of row / column
+                // Calculating the maximum possible height of each building and adding it to maxHeight.
+                // Check if the minimum value is of row / column.
                 if (maxRowArr[i] > maxColArr[j]) {
                     maxHeight = maxHeight + maxColArr[j] - grid[i][j];
                 } else {

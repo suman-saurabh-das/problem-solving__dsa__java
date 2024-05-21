@@ -24,7 +24,7 @@
 - 017 [Create target array in the given order](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P017_Create_target_array_in_given_order.java)
 - 018 [Minimum number of operations to move all balls to each box](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P018_Minimum_number_of_operations_to_move_all_balls_to_each_box.java)
 - 019 [Decompress run-length encoded list](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P019_Decompress_run_length_encoded_list.java)
-- 020 []
+- 020 [Number of laser beams in a bank](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P020_Number_of_laser_beams_in_a_bank.java)
 </details>
 
 <details>

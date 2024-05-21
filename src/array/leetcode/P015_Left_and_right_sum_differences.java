@@ -19,12 +19,13 @@ public class P015_Left_and_right_sum_differences {
         System.out.println("Differences are : " + Arrays.toString(leftRightDifference(nums2)));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O (n)
     public static int[] leftRightDifference(int[] nums) {
         int[] leftSum = new int[nums.length];
         int[] rightSum = new int[nums.length];
 
-        // First element of leftSum and last element of rightSum will be 0
+        // First element of leftSum and last element of rightSum will be 0.
         leftSum[0] = 0;
         rightSum[nums.length - 1] = 0;
 
@@ -34,8 +35,8 @@ public class P015_Left_and_right_sum_differences {
             rightSum[j] = rightSum[j + 1] + nums[j + 1];
         }
 
-        // Find absolute difference between elements of leftSum
-        // and rightSum, then add the result to answer array.
+        // Find absolute difference between elements of leftSum and rightSum,
+        // then add the result to answer array.
         int[] ans = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
             ans[i] = Math.abs(leftSum[i] - rightSum[i]);

@@ -18,7 +18,8 @@ public class P007_Number_of_employees_who_met_the_target {
         System.out.println("Employees who met the target : " + numberOfEmployeesWhoMetTarget(hours2, target2));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity: O(1)
     public static int numberOfEmployeesWhoMetTarget(int[] hours, int target) {
         int employeeCount = 0;
         for (int i = 0; i < hours.length; i++) {

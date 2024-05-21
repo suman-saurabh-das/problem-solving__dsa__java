@@ -22,10 +22,11 @@ public class P010_Running_sum_of_1D_array {
         System.out.println("Running sum array : " + Arrays.toString(runningSum(nums3)));
     }
 
-    // SOLUTION USING LOOP - time complexity - O(n)
+    // SOLUTION USING LOOP
+    // Time complexity - O(n) | Space complexity: O(1)
     public static int[] runningSum(int[] nums) {
         for (int i = 1; i < nums.length; i++) {
-            // To get running sum, we add the previous element with current element
+            // To get running sum, we add the previous element with current element.
             nums[i] = nums[i - 1] + nums[i];
         }
         return nums;

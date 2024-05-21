@@ -19,7 +19,8 @@ public class P001_Concatenation_of_array {
         System.out.println("Concatenated array : " + Arrays.toString(getConcatenation(nums2)));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(n)
     public static int[] getConcatenation(int[] nums) {
         int n = nums.length;
         // Array of length double the size of nums.

@@ -23,7 +23,8 @@ public class P008_Kids_with_the_greatest_number_of_candies {
         System.out.println("Kids having greatest number of candies : " + kidsWithCandies(candies3, extraCandies3));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(n)
     public static ArrayList<Boolean> kidsWithCandies(int[] candies, int extraCandies) {
         // Find the greatest number of candies among the kids.
         int maxCandies = 0;

@@ -245,5 +245,18 @@
     "solvedOn" : "2024-05-21",
     "source": "leetcode",
     "topics" : ["Array"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-2125",
+    "linkProblem": "https://leetcode.com/problems/number-of-laser-beams-in-a-bank/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P020_Number_of_laser_beams_in_a_bank.java",
+    "name": "Number of laser beams in a bank",
+    "serialNum": 20,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-21",
+    "source": "leetcode",
+    "topics" : ["Array", "Math", "Matrix", "String"]
   }
 ]

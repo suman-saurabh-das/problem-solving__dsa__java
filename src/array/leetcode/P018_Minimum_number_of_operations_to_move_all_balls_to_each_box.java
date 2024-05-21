@@ -19,7 +19,8 @@ public class P018_Minimum_number_of_operations_to_move_all_balls_to_each_box {
         System.out.println("Total number of operations : " + Arrays.toString(minOperations(boxes2)));
     }
 
-    // SOLUTION USING NESTED LOOPS - time complexity : O(n^2)
+    // SOLUTION USING NESTED LOOPS
+    // Time complexity : O(n²) | Space complexity : O(n)
     public static int[] minOperations(String boxes) {
         int[] totalMovesArr = new int[boxes.length()];
         // Loop through the boxes to find minimum number of moves required.

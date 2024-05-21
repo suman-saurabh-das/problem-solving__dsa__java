@@ -19,7 +19,8 @@ public class P002_Build_array_from_permutation {
         System.out.println("Permutation array : " + Arrays.toString(buildArray(nums2)));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(n)
     public static int[] buildArray(int[] nums) {
         int[] ans = new int[nums.length];
         // Permutation array can be built using : ans[i] = nums[nums[i]]

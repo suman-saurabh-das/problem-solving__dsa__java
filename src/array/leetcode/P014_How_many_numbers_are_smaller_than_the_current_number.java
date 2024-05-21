@@ -22,7 +22,8 @@ public class P014_How_many_numbers_are_smaller_than_the_current_number {
         System.out.println("Count of numbers are : " + Arrays.toString(smallerNumbersThanCurrent(nums3)));
     }
 
-    // SOLUTION USING NESTED LOOPS - time complexity : O(n^2)
+    // SOLUTION USING NESTED LOOPS
+    // Time complexity : O(n²) | Space complexity : O (n)
     public static int[] smallerNumbersThanCurrent(int[] nums) {
         int[] resultArr = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {

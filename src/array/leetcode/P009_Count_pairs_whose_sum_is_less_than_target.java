@@ -22,7 +22,8 @@ public class P009_Count_pairs_whose_sum_is_less_than_target {
         System.out.println("Number of pairs whose count is less than target : " + countPairs(nums2, target2));
     }
 
-    // SOLUTION USING NESTED LOOPS - time complexity : O(n^2)
+    // SOLUTION USING NESTED LOOPS
+    // Time complexity : O(n²) | Space complexity: O(1)
     public static int countPairs(ArrayList<Integer> nums, int target) {
         // Increment count if the pairs of elements at index i and j (i < j), has sum less than target.
         int count = 0;
