@@ -17,7 +17,8 @@ public class P001_Arranging_coins {
         System.out.println("Number of complete rows : " + arrangeCoins(n2));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(1)
     public static int arrangeCoins(int n) {
         // We will keep decrementing max coins that can be filled in each row from n,
         // until we have 0 (row is completely filled) or -ve value (row is incomplete).

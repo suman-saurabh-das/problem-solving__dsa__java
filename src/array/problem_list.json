@@ -232,5 +232,18 @@
     "solvedOn" : "2024-05-20",
     "source": "leetcode",
     "topics" : ["Array", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1313",
+    "linkProblem": "https://leetcode.com/problems/decompress-run-length-encoded-list/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P019_Decompress_run_length_encoded_list.java",
+    "name": "Decompress run-length encoded list",
+    "serialNum": 19,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-21",
+    "source": "leetcode",
+    "topics" : ["Array"]
   }
 ]
