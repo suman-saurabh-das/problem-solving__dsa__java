@@ -31,6 +31,7 @@
 <summary><a href="https://github.com/suman-saurabh-das/problem-solving__dsa__java/tree/main/src/math">Math</a></summary>
 
 - 001 [Arranging coins](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P001_Arranging_coins.java)
+- 002 [Sqrt(x)](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P002_Find_square_root.java)
 </details>
 
 <details>
