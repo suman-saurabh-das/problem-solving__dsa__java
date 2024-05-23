@@ -37,5 +37,18 @@
     "solvedOn" : "2024-05-23",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Bit manipulation", "Hash Table", "Math", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-136",
+    "linkProblem": "https://leetcode.com/problems/single-number/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P004_Single_number.java",
+    "name": "Single Number",
+    "serialNum": 4,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-23",
+    "source": "leetcode",
+    "topics" : ["Array", "Bit manipulation"]
   }
 ]
