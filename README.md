@@ -32,6 +32,7 @@
 
 - 001 [Arranging coins](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P001_Arranging_coins.java)
 - 002 [Sqrt(x)](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P002_Find_square_root.java)
+- 003 [Missing number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P003_Missing_number.java)
 </details>
 
 <details>

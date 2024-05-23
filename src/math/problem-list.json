@@ -24,5 +24,18 @@
     "solvedOn" : "2024-05-22",
     "source": "leetcode",
     "topics" : ["Binary Search", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-268",
+    "linkProblem": "https://leetcode.com/problems/missing-number/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P003_Missing_number.java",
+    "name": "Missing number",
+    "serialNum": 3,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-23",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Bit manipulation", "Hash Table", "Math", "Sorting"]
   }
 ]

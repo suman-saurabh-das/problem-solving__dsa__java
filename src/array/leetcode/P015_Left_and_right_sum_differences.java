@@ -20,7 +20,7 @@ public class P015_Left_and_right_sum_differences {
     }
 
     // SOLUTION USING LOOP
-    // Time complexity : O(n) | Space complexity : O (n)
+    // Time complexity : O(n) | Space complexity : O(n)
     public static int[] leftRightDifference(int[] nums) {
         int[] leftSum = new int[nums.length];
         int[] rightSum = new int[nums.length];
