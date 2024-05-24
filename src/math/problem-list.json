@@ -44,10 +44,23 @@
     "id": "leetcode-136",
     "linkProblem": "https://leetcode.com/problems/single-number/description/",
     "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P004_Single_number.java",
-    "name": "Single Number",
+    "name": "Single number",
     "serialNum": 4,
     "solutionAccepted": true,
     "solvedOn" : "2024-05-23",
+    "source": "leetcode",
+    "topics" : ["Array", "Bit manipulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2859",
+    "linkProblem": "https://leetcode.com/problems/sum-of-values-at-indices-with-k-set-bits/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P005_Sum_of_values_at_indices_with_K_bits.java",
+    "name": "Sum of values at indices with K set bits",
+    "serialNum": 5,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-24",
     "source": "leetcode",
     "topics" : ["Array", "Bit manipulation"]
   }

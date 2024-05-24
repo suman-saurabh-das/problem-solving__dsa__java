@@ -1,7 +1,7 @@
 package math.leetcode;
 
 /*
-    136. Single Number
+    136. Single number
     https://leetcode.com/problems/single-number/description/
 
     Input: nums = [2,2,1]

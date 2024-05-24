@@ -34,6 +34,7 @@
 - 002 [Sqrt(x)](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P002_Find_square_root.java)
 - 003 [Missing number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P003_Missing_number.java)
 - 004 [Single Number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P004_Single_number.java)
+- 005 [Sum of values at indices with K set bits](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P005_Sum_of_values_at_indices_with_K_bits.java)
 </details>
 
 <details>
