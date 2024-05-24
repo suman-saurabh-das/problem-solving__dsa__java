@@ -63,5 +63,18 @@
     "solvedOn" : "2024-05-24",
     "source": "leetcode",
     "topics" : ["Array", "Bit manipulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1720",
+    "linkProblem": "https://leetcode.com/problems/decode-xored-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P006_Decode_XORed_array.java",
+    "name": "Decode XORed array",
+    "serialNum": 6,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-24",
+    "source": "leetcode",
+    "topics" : ["Array", "Bit manipulation"]
   }
 ]

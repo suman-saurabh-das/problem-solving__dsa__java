@@ -35,6 +35,7 @@
 - 003 [Missing number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P003_Missing_number.java)
 - 004 [Single Number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P004_Single_number.java)
 - 005 [Sum of values at indices with K set bits](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P005_Sum_of_values_at_indices_with_K_bits.java)
+- 006 [Decode XORed array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P006_Decode_XORed_array.java)
 </details>
 
 <details>
