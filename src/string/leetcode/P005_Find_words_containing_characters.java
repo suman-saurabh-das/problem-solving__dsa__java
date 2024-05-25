@@ -23,9 +23,10 @@ public class P005_Find_words_containing_characters {
         System.out.println("Words containing characters are at index : " + findWordsContaining(words2, x3));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n^2)
-    // Here time complexity is O(n^2) because indexOf() method,
-    // uses an internal loop to check for elements.
+    // SOLUTION USING LOOP
+    // Time complexity : O(m * n) | Space complexity : O(m)
+    // where m is length of words array and n is length of each word.
+    // Here time complexity is O(m * n) because indexOf() method, uses an internal loop to check for elements.
     public static ArrayList<Integer> findWordsContaining(String[] words, char x) {
         ArrayList<Integer> listOfWords = new ArrayList<>();
         for (int i = 0; i < words.length; i++) {

@@ -18,7 +18,8 @@ public class P003_Widest_vertical_area_between_two_points_containing_no_points {
         System.out.println("Widest vertical area : " + maxWidthOfVerticalArea(points2));
     }
 
-    // SOLUTION USING INSERTION SORT - time complexity : O(n^2)
+    // SOLUTION USING INSERTION SORT
+    // Time complexity : O(n²) | Space complexity : O(n)
     public static int maxWidthOfVerticalArea(int[][] points) {
         // We need to find the max width between 2 consecutive points in x-coordinate.
         // Create an array from the points given so that we have the x-coordinates.
@@ -39,7 +40,8 @@ public class P003_Widest_vertical_area_between_two_points_containing_no_points {
         return maxDifference;
     }
 
-    // Insertion sort - time complexity : O(n^2)
+    // Insertion sort
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static void insertionSort(int[] arr) {
         // External loop will run less than n-1 times.
         // (because we are comparing element at i and i+1)
@@ -59,6 +61,7 @@ public class P003_Widest_vertical_area_between_two_points_containing_no_points {
     }
 
     // Swap array elements using index.
+    // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];
         arr[index1] = arr[index2];

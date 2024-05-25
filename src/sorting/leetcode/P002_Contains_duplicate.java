@@ -21,7 +21,8 @@ public class P002_Contains_duplicate {
         System.out.println("Array contains duplicate : " + containsDuplicate(nums3));
     }
 
-    // SOLUTION USING SELECTION SORT - time complexity : O(n^2)
+    // SOLUTION USING SELECTION SORT
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static boolean containsDuplicate(int[] nums) {
         selectionSort(nums);    // Time limit exceeded error
         // Check if 2 consecutive elements are equal
@@ -33,7 +34,8 @@ public class P002_Contains_duplicate {
         return false;
     }
 
-    // Selection sort - time complexity : O(n^2)
+    // Selection sort
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static void selectionSort(int[] arr) {
         // External loop will run n-1 times.
         for (int i = 0; i < arr.length; i++) {
@@ -47,6 +49,7 @@ public class P002_Contains_duplicate {
     }
 
     // Find index of max element in array.
+    // Time complexity : O(n) | Space complexity : O(1)
     public static int findMaxElementIndex(int[] arr, int end) {
         int maxElementIndex = 0;
         for (int i = 0; i <= end; i++) {
@@ -58,6 +61,7 @@ public class P002_Contains_duplicate {
     }
 
     // Swap array elements using index.
+    // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];
         arr[index1] = arr[index2];

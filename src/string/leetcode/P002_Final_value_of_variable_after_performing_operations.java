@@ -21,7 +21,8 @@ public class P002_Final_value_of_variable_after_performing_operations {
         System.out.println("Final value : " + finalValueAfterOperations(operations3));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(1)
     public static int finalValueAfterOperations(String[] operations) {
         int finalValue = 0;
         // Check for the middle character in each string in array,

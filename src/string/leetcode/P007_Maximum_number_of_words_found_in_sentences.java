@@ -18,7 +18,9 @@ public class P007_Maximum_number_of_words_found_in_sentences {
         System.out.println("Maximum words in sentences : " + mostWordsFound(sentences2));
     }
 
-    // SOLUTION USING NESTED LOOPS - time complexity : O(n^2)
+    // SOLUTION USING NESTED LOOPS
+    // Time complexity : O(m * n) | Space complexity : O(1)
+    // where m is length of sentences array and n is length of each word.
     public static int mostWordsFound(String[] sentences) {
         int maxWords = 0;
         // Find the sentence with maximum words.
@@ -32,6 +34,7 @@ public class P007_Maximum_number_of_words_found_in_sentences {
     }
 
     // Find total words in a sentence.
+    // Time complexity : O(n) | Space complexity : O(1)
     public static int totalWordsInString(String str) {
         // Number of words = Number of spaces + 1
         int numSpaces = 0;
@@ -43,9 +46,10 @@ public class P007_Maximum_number_of_words_found_in_sentences {
         return numSpaces + 1;
     }
 
-    // ALTERNATIVE SOLUTION USING LOOP - time complexity : O(n^2)
-    // Here time complexity is O(n^2) because split(),
-    // internally uses a loop to find all occurrence of delimiter.
+    // ALTERNATIVE SOLUTION USING LOOP
+    // Time complexity : O(m * n) | Space complexity : O(1)
+    // where m is length of sentences array and n is length of each word.
+    // split(), internally uses a loop to find all occurrence of delimiter.
     public static int mostWordsFound2(String[] sentences) {
         int maxWords = 0;
         for (int i = 0; i < sentences.length; i++) {

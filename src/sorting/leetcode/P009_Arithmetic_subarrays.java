@@ -22,7 +22,9 @@ public class P009_Arithmetic_subarrays {
         System.out.println("Arithmetic subarrays : " + checkArithmeticSubarrays(nums2, l2, r2));
     }
 
-    // SOLUTION USING INSERTION SORT - time complexity : O(n^2)
+    // SOLUTION USING INSERTION SORT
+    // Time complexity : O(m * n²) | Space complexity : O(n)
+    // where m is the length of l array, n is the length of subArray.
     public static ArrayList<Boolean> checkArithmeticSubarrays(int[] nums, int[] l, int[] r) {
         ArrayList<Boolean> listOfArithmeticSubarrays = new ArrayList<>();
         // Number of sub-arrays to be checked will be equal to length of l or r
@@ -38,6 +40,7 @@ public class P009_Arithmetic_subarrays {
     }
 
     // Check if array is arithmetic.
+    // Time complexity : O(n) | Space complexity : O(1)
     public static boolean isArithmeticSubarray(int[] arr) {
         // An array is arithmetic, if it consists of at least two elements,
         // and the difference between every two consecutive elements is the same.
@@ -52,7 +55,8 @@ public class P009_Arithmetic_subarrays {
         return isArithmetic;
     }
 
-    // Insertion sort - time complexity : O(n^2)
+    // Insertion sort
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static void insertionSort(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {
             for (int j = i + 1; j > 0; j--) {
@@ -66,6 +70,7 @@ public class P009_Arithmetic_subarrays {
     }
 
     // Swap array elements using index.
+    // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];
         arr[index1] = arr[index2];

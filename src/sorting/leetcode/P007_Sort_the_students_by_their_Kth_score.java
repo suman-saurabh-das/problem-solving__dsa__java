@@ -29,7 +29,8 @@ public class P007_Sort_the_students_by_their_Kth_score {
         }
     }
 
-    // SOLUTION USING BUBBLE SORT - time complexity : O(n^2)
+    // SOLUTION USING BUBBLE SORT
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static int[][] sortTheStudents(int[][] score, int k) {
         boolean isSwapped;
         for (int i = 0; i < score.length; i++) {
@@ -51,6 +52,7 @@ public class P007_Sort_the_students_by_their_Kth_score {
     }
 
     // Swap the student who has more score with student having less score.
+    // Time complexity : O(1) | Space complexity : O(1)
     public static void swapArray(int[][] arr, int index1, int index2) {
         int[] temp = arr[index1];
         arr[index1] = arr[index2];

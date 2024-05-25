@@ -36,6 +36,7 @@
 - 004 [Single Number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P004_Single_number.java)
 - 005 [Sum of values at indices with K set bits](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P005_Sum_of_values_at_indices_with_K_bits.java)
 - 006 [Decode XORed array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P006_Decode_XORed_array.java)
+- 007 [XOR operation in an array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P007_XOR_operation_in_an_array.java)
 </details>
 
 <details>
@@ -81,7 +82,6 @@
 - 008 [Split a string in balanced strings](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P008_Split_a_string_balanced_strings.java)
 - 009 [Longest common prefix](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P009_Longest_common_prefix.java)
 - 010 [Find the index of the first occurrence in a string](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P010_Find_the_index_of_the_first_occurrence_in_a_string.java)
-
 </details>
 
 ## Credits

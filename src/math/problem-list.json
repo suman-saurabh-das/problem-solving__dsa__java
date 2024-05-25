@@ -76,5 +76,18 @@
     "solvedOn" : "2024-05-24",
     "source": "leetcode",
     "topics" : ["Array", "Bit manipulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1486",
+    "linkProblem": "https://leetcode.com/problems/xor-operation-in-an-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P007_XOR_operation_in_an_array.java",
+    "name": "XOR operation in an array",
+    "serialNum": 7,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-25",
+    "source": "leetcode",
+    "topics" : ["Bit manipulation", "Math"]
   }
 ]

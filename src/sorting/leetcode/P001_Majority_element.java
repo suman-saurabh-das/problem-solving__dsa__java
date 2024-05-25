@@ -17,7 +17,8 @@ public class P001_Majority_element {
         System.out.println("Majority element is : " + majorityElement(nums2));
     }
 
-    // SOLUTION USING BUBBLE SORT - time complexity - O(n^2)
+    // SOLUTION USING BUBBLE SORT
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static int majorityElement(int[] nums) {
         // Since the majority element occurs more than n/2 times.
         // Hence, the majority element can always be found at mid-position after sorting.
@@ -25,7 +26,8 @@ public class P001_Majority_element {
         return nums[nums.length / 2];
     }
 
-    // Bubble sort - time complexity O(n^2)
+    // Bubble sort
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static void bubbleSort(int[] arr) {
         // External loop will run for n-1 times.
         // It will count the number of passes.
@@ -49,6 +51,7 @@ public class P001_Majority_element {
     }
 
     // Swap array elements using index.
+    // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];
         arr[index1] = arr[index2];

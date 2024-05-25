@@ -20,7 +20,8 @@ public class P006_Goal_parser_interpretation {
         System.out.println("Interpreted string is : " + interpret(command3));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(n)
     public static String interpret(String command) {
         StringBuilder result = new StringBuilder();
         int i = 0;

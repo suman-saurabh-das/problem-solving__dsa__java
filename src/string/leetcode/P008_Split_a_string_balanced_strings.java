@@ -20,7 +20,8 @@ public class P008_Split_a_string_balanced_strings {
         System.out.println("Maximum number of balanced strings : " + balancedStringSplit(s3));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(1)
     public static int balancedStringSplit(String s) {
         // Loop through the characters and find,
         // how many balanced pairs of R-L can be formed.

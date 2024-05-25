@@ -17,8 +17,9 @@ public class P010_Find_the_index_of_the_first_occurrence_in_a_string {
         System.out.println("Index of first occurrence : " + strStr(haystack2, needle2));
     }
 
-    // SOLUTION USING NESTED LOOPS - time complexity : O(m*n)
-    // Where m - length of haystack, n - length of needle
+    // SOLUTION USING NESTED LOOPS
+    // Time complexity : O(m * n) | Space complexity : O(1)
+    // Where m is length of haystack and n is length of needle
     public static int strStr(String haystack, String needle) {
         // Start and end index of characters in needle string.
         int start = 0, end = needle.length() - 1;
@@ -40,13 +41,15 @@ public class P010_Find_the_index_of_the_first_occurrence_in_a_string {
         return -1;
     }
 
-    // SOLUTION USING BUILT-IN METHOD - time complexity : O(m*n)
+    // SOLUTION USING BUILT-IN METHOD
+    // Time complexity : O(m * n) | Space complexity : O(1)
     public static int strStr2(String haystack, String needle) {
         return haystack.indexOf(needle);
     }
 
-    // SOLUTION USING LOOP - time complexity - O(m*n)
-    // Here time complexity is O(m*n) because substring() and equals() internally uses a loop.
+    // SOLUTION USING LOOP
+    // Time complexity : O(m * n) | Space complexity : O(1)
+    // Here time complexity is O(m * n) because substring() and equals() internally uses a loop.
     public static int strStr3(String haystack, String needle) {
         int index = 0;
         while (index + needle.length() - 1 < haystack.length()) {

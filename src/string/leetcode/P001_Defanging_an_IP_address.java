@@ -17,7 +17,8 @@ public class P001_Defanging_an_IP_address {
         System.out.println("Defanged IP address : " + defangIPaddr(s2));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(n)
     public static String defangIPaddr(String address) {
         StringBuilder defangedAddress = new StringBuilder();
         int i = 0;
@@ -34,9 +35,10 @@ public class P001_Defanging_an_IP_address {
         return new String(defangedAddress);
     }
 
-    // SOLUTION USING BUILT-IN METHOD - time complexity : O(m*n)
-    // where n is the length of the input string and
-    // m is the length of the substring to be replaced.
+    // SOLUTION USING BUILT-IN METHOD
+    // Time complexity : O(n) | Space complexity : O(n)
+    // where n is the length of the input string.
+    // length of the substring to be replaced is constant.
     public static String defangIPaddr2(String address) {
         return address.replace(".", "[.]");
     }

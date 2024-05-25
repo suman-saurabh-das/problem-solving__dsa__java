@@ -16,7 +16,9 @@ public class P009_Longest_common_prefix {
         System.out.println("Longest common prefix : " + longestCommonPrefix(strs2));
     }
 
-    // SOLUTION USING NESTED LOOPS - time complexity : O(n^2)
+    // SOLUTION USING NESTED LOOPS
+    // Time complexity : O(m * n) | Space complexity : O(n)
+    // where m is length of strs array and n is length of each word.
     public static String longestCommonPrefix(String[] strs) {
         // StringBuilder object to create the string containing common prefixes.
         StringBuilder commonPrefixString = new StringBuilder();
@@ -43,6 +45,7 @@ public class P009_Longest_common_prefix {
     }
 
     // Find string with minimum length.
+    // Time complexity : O(n) | Space complexity : O(1)
     public static int findLengthSmallestWord(String[] strs) {
         int minLength = strs[0].length();
         for (int i = 0; i < strs.length; i++) {

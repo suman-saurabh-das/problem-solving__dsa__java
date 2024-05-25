@@ -20,7 +20,8 @@ public class P003_Partitioning_into_minimum_number_of_deci_binary_numbers {
         System.out.println("Minimum number of deci-binary numbers : " + minPartitions(n3));
     }
 
-    // SOLUTION USING LOOP - time complexity : O(n)
+    // SOLUTION USING LOOP
+    // Time complexity : O(n) | Space complexity : O(1)
     public static int minPartitions(String n) {
         // The minimum number of deci-binary numbers needed to form any number,
         // will be equal to the largest digit present in that number.

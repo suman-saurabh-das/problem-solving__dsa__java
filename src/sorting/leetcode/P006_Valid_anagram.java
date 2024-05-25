@@ -17,7 +17,8 @@ public class P006_Valid_anagram {
         System.out.println("Strings are anagrams : " + isAnagram(s2, t2));
     }
 
-    // SOLUTION USING INSERTION SORT - time complexity : O(n^2)
+    // SOLUTION USING INSERTION SORT
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static boolean isAnagram(String s, String t) {
         // Sort the 2 strings.
         s = insertionSort(s);
@@ -26,7 +27,8 @@ public class P006_Valid_anagram {
         return s.equals(t);
     }
 
-    // Insertion sort - time complexity : O(n^2)
+    // Insertion sort
+    // Time complexity : O(n²) | Space complexity : O(n)
     public static String insertionSort(String str) {
         char[] charArr = str.toCharArray();
         for (int i = 0; i < charArr.length - 1; i++) {
@@ -42,6 +44,7 @@ public class P006_Valid_anagram {
     }
 
     // Swap array elements using index.
+    // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(char[] arr, int index1, int index2) {
         char temp = arr[index1];
         arr[index1] = arr[index2];

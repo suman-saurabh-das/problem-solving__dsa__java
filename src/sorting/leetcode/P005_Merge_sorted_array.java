@@ -26,7 +26,8 @@ public class P005_Merge_sorted_array {
         System.out.println("Merged sorted array : " + Arrays.toString(nums5));
     }
 
-    // SOLUTION USING SELECTION SORT - time complexity : O(n^2)
+    // SOLUTION USING SELECTION SORT
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static void merge(int[] nums1, int m, int[] nums2, int n) {
         // Merging elements of array nums2 into nums1.
         for (int i = 0; i < n; i++) {
@@ -36,7 +37,8 @@ public class P005_Merge_sorted_array {
         selectionSort(nums1);
     }
 
-    // Selection sort - time complexity : O(n^2)
+    // Selection sort
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static void selectionSort(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             int lastElementIndex = arr.length - 1 - i;
@@ -46,6 +48,7 @@ public class P005_Merge_sorted_array {
     }
 
     // Find index of max element in array.
+    // Time complexity : O(n) | Space complexity : O(1)
     public static int findMaxElementIndex(int[] arr, int end) {
         int maxElementIndex = 0;
         for (int i = 0; i <= end; i++) {
@@ -57,6 +60,7 @@ public class P005_Merge_sorted_array {
     }
 
     // Swap array elements using index.
+    // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];
         arr[index1] = arr[index2];

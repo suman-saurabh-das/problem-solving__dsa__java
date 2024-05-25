@@ -23,7 +23,8 @@ public class P004_Find_target_indices_after_sorting_array {
         System.out.println("Indices are : " + targetIndices(nums, target3));
     }
 
-    // SOLUTION USING BUBBLE SORT - time complexity : O(n^2)
+    // SOLUTION USING BUBBLE SORT
+    // Time complexity : O(n²) | Space complexity : O(n)
     public static ArrayList<Integer> targetIndices(int[] nums, int target) {
         ArrayList<Integer> indicesArr = new ArrayList<>();
         // Sort the elements in array.
@@ -37,7 +38,8 @@ public class P004_Find_target_indices_after_sorting_array {
         return indicesArr;
     }
 
-    // Bubble Sort - time complexity : O(n^2)
+    // Bubble Sort
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static void bubbleSort(int[] arr) {
         boolean isSwapped;
         for (int i = 0; i < arr.length; i++) {
@@ -55,6 +57,7 @@ public class P004_Find_target_indices_after_sorting_array {
     }
 
     // Swap array elements using index.
+    // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];
         arr[index1] = arr[index2];
