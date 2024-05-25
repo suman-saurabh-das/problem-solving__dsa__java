@@ -89,5 +89,18 @@
     "solvedOn" : "2024-05-25",
     "source": "leetcode",
     "topics" : ["Bit manipulation", "Math"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1342",
+    "linkProblem": "https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P008_Number_of_steps_to_reduce_a_number_to_zero.java",
+    "name": "Number of steps to reduce a number to zero",
+    "serialNum": 8,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-25",
+    "source": "leetcode",
+    "topics" : ["Bit manipulation", "Math"]
   }
 ]
