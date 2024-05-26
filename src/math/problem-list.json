@@ -36,7 +36,7 @@
     "solutionAccepted": true,
     "solvedOn" : "2024-05-23",
     "source": "leetcode",
-    "topics" : ["Array", "Binary Search", "Bit manipulation", "Hash Table", "Math", "Sorting"]
+    "topics" : ["Array", "Binary Search", "Bit Manipulation", "Hash Table", "Math", "Sorting"]
   },
   {
     "difficulty": "Easy",
@@ -49,7 +49,7 @@
     "solutionAccepted": true,
     "solvedOn" : "2024-05-23",
     "source": "leetcode",
-    "topics" : ["Array", "Bit manipulation"]
+    "topics" : ["Array", "Bit Manipulation"]
   },
   {
     "difficulty": "Easy",
@@ -62,7 +62,7 @@
     "solutionAccepted": true,
     "solvedOn" : "2024-05-24",
     "source": "leetcode",
-    "topics" : ["Array", "Bit manipulation"]
+    "topics" : ["Array", "Bit Manipulation"]
   },
   {
     "difficulty": "Easy",
@@ -75,7 +75,7 @@
     "solutionAccepted": true,
     "solvedOn" : "2024-05-24",
     "source": "leetcode",
-    "topics" : ["Array", "Bit manipulation"]
+    "topics" : ["Array", "Bit Manipulation"]
   },
   {
     "difficulty": "Easy",
@@ -88,7 +88,7 @@
     "solutionAccepted": true,
     "solvedOn" : "2024-05-25",
     "source": "leetcode",
-    "topics" : ["Bit manipulation", "Math"]
+    "topics" : ["Bit Manipulation", "Math"]
   },
   {
     "difficulty": "Easy",
@@ -101,7 +101,7 @@
     "solutionAccepted": true,
     "solvedOn" : "2024-05-25",
     "source": "leetcode",
-    "topics" : ["Bit manipulation", "Math"]
+    "topics" : ["Bit Manipulation", "Math"]
   },
   {
     "difficulty": "Easy",
@@ -114,6 +114,19 @@
     "solutionAccepted": true,
     "solvedOn" : "2024-05-26",
     "source": "leetcode",
-    "topics" : ["Bit manipulation"]
+    "topics" : ["Bit Manipulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2220",
+    "linkProblem": "https://leetcode.com/problems/flipping-an-image/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P010_Flipping_an_image.java",
+    "name": "Flipping an image",
+    "serialNum": 10,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-26",
+    "source": "leetcode",
+    "topics" : ["Array", "Bit Manipulation", "Matrix", "Simulation", "Two Pointers"]
   }
 ]
