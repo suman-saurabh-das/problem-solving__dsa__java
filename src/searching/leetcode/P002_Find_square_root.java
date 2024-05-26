@@ -17,9 +17,11 @@ public class P002_Find_square_root {
         System.out.println("Square root is : " + mySqrt(x2));
     }
 
-    // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
-    // Gives out of memory error for x = 2147395599 if we use int, so we use long then convert it into int.
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int mySqrt(int x) {
+        // Gives out of memory error for x = 2147395599 if we use int,
+        // so we use long then convert it into int.
         long start = 0, end = x;
         while (start <= end) {
             long mid = start + (end - start) / 2;

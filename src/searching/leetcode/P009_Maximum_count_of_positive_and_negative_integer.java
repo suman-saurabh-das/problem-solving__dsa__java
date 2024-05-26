@@ -20,7 +20,8 @@ public class P009_Maximum_count_of_positive_and_negative_integer {
         System.out.println("Maximum count is : " + maximumCount(nums3));
     }
 
-    // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int maximumCount(int[] nums) {
         int countOfPositiveNums = nums.length - indexOfMinPositiveNum(nums);
         int countOfNegativeNums = indexOfMaxNegativeNum(nums) + 1;
@@ -28,6 +29,8 @@ public class P009_Maximum_count_of_positive_and_negative_integer {
         return Math.max(countOfPositiveNums, countOfNegativeNums);
     }
 
+    // Binary search to find index of max negative number.
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int indexOfMaxNegativeNum(int[] arr) {
         int start = 0, end = arr.length - 1;
         while (start <= end) {
@@ -40,10 +43,12 @@ public class P009_Maximum_count_of_positive_and_negative_integer {
                 start = mid + 1;
             }
         }
-        // (start-1) will point to index of max negative number.
-        return start - 1;
+        // end will point to index of max negative number.
+        return end;
     }
 
+    // Binary search to find index of min positive number.
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int indexOfMinPositiveNum(int[] arr) {
         int start = 0, end = arr.length - 1;
         while (start <= end) {

@@ -18,7 +18,8 @@ public class P003_First_bad_version {
         System.out.println("First bad version is : " + firstBadVersion(5));
     }
 
-    // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int firstBadVersion(int n) {
         int start = 1, end = n;
         while (start <= end) {

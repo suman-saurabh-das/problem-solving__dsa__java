@@ -21,7 +21,8 @@ public class P004_Guess_number_higher_or_lower {
         System.out.println("Number to guess : " + guessNumber(10));
     }
 
-    // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int guessNumber(int n) {
         int start = 1, end = n;
         while (start <= end) {

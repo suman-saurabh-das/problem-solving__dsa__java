@@ -17,16 +17,17 @@ public class P005_Valid_perfect_square {
         System.out.println("Number is prefect : " + isPerfectSquare(num2));
     }
 
-    // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static boolean isPerfectSquare(int num) {
         long start = 1, end = num;
         while (start <= end) {
             long mid = start + (end - start) / 2;
-            // If (current number) ^ 2 is greater than num, reduce the number.
+            // If (current number)² is greater than num, reduce the number.
             if (mid * mid > num) {
                 end = mid - 1;
             }
-            // If (current number) ^ 2 is lesser than num, reduce the number.
+            // If (current number)² is lesser than num, reduce the number.
             else if (mid * mid < num) {
                 start = mid + 1;
             }

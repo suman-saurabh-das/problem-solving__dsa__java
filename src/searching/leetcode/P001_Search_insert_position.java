@@ -22,7 +22,8 @@ public class P001_Search_insert_position {
         System.out.println("Insert position is : " + searchInsert(nums, target4));
     }
 
-    // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int searchInsert(int[] nums, int target) {
         int start = 0, end = nums.length - 1;
         while (start <= end) {

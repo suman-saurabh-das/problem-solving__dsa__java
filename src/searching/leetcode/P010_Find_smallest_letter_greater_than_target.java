@@ -21,7 +21,8 @@ public class P010_Find_smallest_letter_greater_than_target {
         System.out.println("Smallest letter greater than target : " + nextGreatestLetter(letters2, target3));
     }
 
-    // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static char nextGreatestLetter(char[] letters, char target) {
         int start = 0, end = letters.length - 1;
         while (start <= end) {

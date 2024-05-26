@@ -17,7 +17,8 @@ public class P006_Arranging_coins {
         System.out.println("Number of complete rows : " + arrangeCoins(n2));
     }
 
-    // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int arrangeCoins(int n) {
         // For a row to be completely filled, the total number of coins must satisfy,
         // totalCoinsInFilledRow = n * (n+1) / 2, where n is number of filled rows.

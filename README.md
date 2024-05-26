@@ -37,7 +37,8 @@
 - 005 [Sum of values at indices with K set bits](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P005_Sum_of_values_at_indices_with_K_bits.java)
 - 006 [Decode XORed array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P006_Decode_XORed_array.java)
 - 007 [XOR operation in an array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P007_XOR_operation_in_an_array.java)
-- 008 [Number of steps to reduce a number to zero]()
+- 008 [Number of steps to reduce a number to zero](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P008_Number_of_steps_to_reduce_a_number_to_zero.java)
+- 009 [Minimum bit flips to convert number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/math/leetcode/P009_Minimum_bit_flips_to_convert_number.java)
 </details>
 
 <details>

@@ -19,7 +19,8 @@ public class P007_Binary_search {
         System.out.println("Element is at index : " + search(nums2, target3));
     }
 
-    // SOLUTION USING BINARY SEARCH - time complexity : O(log(n))
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int search(int[] nums, int target) {
         int start = 0, end = nums.length - 1;
         while (start <= end) {
