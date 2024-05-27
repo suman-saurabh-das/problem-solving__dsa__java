@@ -38,7 +38,7 @@ public class P004_Find_target_indices_after_sorting_array {
         return indicesArr;
     }
 
-    // Bubble Sort
+    // Bubble Sort.
     // Time complexity : O(n²) | Space complexity : O(1)
     public static void bubbleSort(int[] arr) {
         boolean isSwapped;

@@ -55,7 +55,7 @@ public class P009_Arithmetic_subarrays {
         return isArithmetic;
     }
 
-    // Insertion sort
+    // Insertion sort.
     // Time complexity : O(n²) | Space complexity : O(1)
     public static void insertionSort(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {

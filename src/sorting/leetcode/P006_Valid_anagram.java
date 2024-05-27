@@ -27,7 +27,7 @@ public class P006_Valid_anagram {
         return s.equals(t);
     }
 
-    // Insertion sort
+    // Insertion sort.
     // Time complexity : O(n²) | Space complexity : O(n)
     public static String insertionSort(String str) {
         char[] charArr = str.toCharArray();

@@ -53,7 +53,7 @@ public class P008_Check_if_n_and_its_double_exist {
         return false;
     }
 
-    // Insertion sort
+    // Insertion sort.
     // Time complexity : O(n²) | Space complexity : O(1)
     public static void insertionSort(int[] arr) {
         for (int i = 0; i < arr.length - 1; i++) {
@@ -67,7 +67,7 @@ public class P008_Check_if_n_and_its_double_exist {
         }
     }
 
-    // Swap array elements using index
+    // Swap array elements using index.
     // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];

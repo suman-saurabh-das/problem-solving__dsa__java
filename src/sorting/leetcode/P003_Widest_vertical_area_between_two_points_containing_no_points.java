@@ -40,7 +40,7 @@ public class P003_Widest_vertical_area_between_two_points_containing_no_points {
         return maxDifference;
     }
 
-    // Insertion sort
+    // Insertion sort.
     // Time complexity : O(n²) | Space complexity : O(1)
     public static void insertionSort(int[] arr) {
         // External loop will run less than n-1 times.

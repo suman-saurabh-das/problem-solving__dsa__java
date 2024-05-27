@@ -43,7 +43,7 @@ public class P008_Maximum_number_of_coins_you_can_get {
         return totalCoins;
     }
 
-    // Selection sort
+    // Selection sort.
     // Time complexity - O(n²) | Space complexity : O(1)
     public static void selectionSort(int[] arr) {
         for (int i = 0; i < arr.length; i++) {

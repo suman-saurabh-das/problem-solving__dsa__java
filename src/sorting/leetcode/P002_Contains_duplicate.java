@@ -34,7 +34,7 @@ public class P002_Contains_duplicate {
         return false;
     }
 
-    // Selection sort
+    // Selection sort.
     // Time complexity : O(n²) | Space complexity : O(1)
     public static void selectionSort(int[] arr) {
         // External loop will run n-1 times.

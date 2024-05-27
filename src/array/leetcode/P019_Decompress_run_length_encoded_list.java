@@ -38,7 +38,7 @@ public class P019_Decompress_run_length_encoded_list {
         return convertArrayListToArray(decompressedList);
     }
 
-    // Convert integer array list to array
+    // Convert integer array list to array.
     // Time complexity : O(m) | Space complexity : O(m)
     public static int[] convertArrayListToArray(ArrayList<Integer> list) {
         int[] arr = new int[list.size()];

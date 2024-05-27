@@ -25,11 +25,11 @@ public class P011_Maximum_count_of_positive_and_negative_integer {
     public static int maximumCount(int[] nums) {
         int posNumCount = 0, negNumCount = 0;
         for (int i = 0; i < nums.length; i++) {
-            // If number is positive, increment posNumCount
+            // If number is positive, increment posNumCount.
             if (nums[i] > 0) {
                 posNumCount++;
             }
-            // If number is negative, increment negNumCount
+            // If number is negative, increment negNumCount.
             if (nums[i] < 0) {
                 negNumCount++;
             }

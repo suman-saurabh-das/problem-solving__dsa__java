@@ -37,7 +37,7 @@ public class P005_Merge_sorted_array {
         selectionSort(nums1);
     }
 
-    // Selection sort
+    // Selection sort.
     // Time complexity : O(n²) | Space complexity : O(1)
     public static void selectionSort(int[] arr) {
         for (int i = 0; i < arr.length; i++) {

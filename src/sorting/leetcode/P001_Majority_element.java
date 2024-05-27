@@ -26,7 +26,7 @@ public class P001_Majority_element {
         return nums[nums.length / 2];
     }
 
-    // Bubble sort
+    // Bubble sort.
     // Time complexity : O(n²) | Space complexity : O(1)
     public static void bubbleSort(int[] arr) {
         // External loop will run for n-1 times.

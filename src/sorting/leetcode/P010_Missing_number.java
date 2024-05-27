@@ -36,7 +36,7 @@ public class P010_Missing_number {
         return nums.length;
     }
 
-    // Cyclic sort
+    // Cyclic sort.
     // Time complexity : O(n) | Space complexity : O(1)
     public static void cyclicSort(int[] arr) {
         int i = 0;
@@ -54,7 +54,7 @@ public class P010_Missing_number {
         }
     }
 
-    // Swap array elements using index
+    // Swap array elements using index.
     // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];
