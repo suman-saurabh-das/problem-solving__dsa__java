@@ -141,5 +141,18 @@
     "solvedOn" : "2024-05-27",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Matrix"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-1011",
+    "linkProblem": "https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P012_Capacity_to_ship_packages_within_D_days.java",
+    "name": "Capacity to ship packages within D days",
+    "serialNum": 12,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-28",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
   }
 ]

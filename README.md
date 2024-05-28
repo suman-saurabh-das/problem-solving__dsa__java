@@ -56,6 +56,7 @@
 - 009 [Maximum count of positive integer and negative integer](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P009_Maximum_count_of_positive_and_negative_integer.java)
 - 010 [Find smallest letter greater than target](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P010_Find_smallest_letter_greater_than_target.java)
 - 011 [Count negative numbers in a sorted matrix](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P011_Count_negative_numbers_in_a_sorted_matrix.java)
+- 012 [Capacity to ship packages within D days](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P012_Capacity_to_ship_packages_within_D_days.java)
 </details>
 
 <details>
