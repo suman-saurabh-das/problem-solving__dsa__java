@@ -154,5 +154,18 @@
     "solvedOn" : "2024-05-28",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1385",
+    "linkProblem": "https://leetcode.com/problems/find-the-distance-value-between-two-arrays/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P013_Find_the_distance_value_between_two_arrays.java",
+    "name": "Find the distance value between two arrays",
+    "serialNum": 13,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-29",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Sorting", "Two Pointers"]
   }
 ]
