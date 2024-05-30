@@ -58,6 +58,7 @@
 - 011 [Count negative numbers in a sorted matrix](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P011_Count_negative_numbers_in_a_sorted_matrix.java)
 - 012 [Capacity to ship packages within D days](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P012_Capacity_to_ship_packages_within_D_days.java)
 - 013 [Find the distance value between two arrays](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P013_Find_the_distance_value_between_two_arrays.java)
+- 014 [Fair candy swap](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P014_Fair_candy_swap.java)
 </details>
 
 <details>

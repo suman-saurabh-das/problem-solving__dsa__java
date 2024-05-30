@@ -167,5 +167,18 @@
     "solvedOn" : "2024-05-29",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Sorting", "Two Pointers"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-888",
+    "linkProblem": "https://leetcode.com/problems/fair-candy-swap/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P014_Fair_candy_swap.java",
+    "name": "Fair candy swap",
+    "serialNum": 14,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-30",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Hash Table", "Sorting"]
   }
 ]
