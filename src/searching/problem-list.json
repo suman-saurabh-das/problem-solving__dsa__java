@@ -180,5 +180,18 @@
     "solvedOn" : "2024-05-30",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Hash Table", "Sorting"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-34",
+    "linkProblem": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P015_Find_first_and_last_position_of_element_in_sorted_array.java",
+    "name": "Find first and last position of element in sorted array",
+    "serialNum": 15,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-31",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
   }
 ]
