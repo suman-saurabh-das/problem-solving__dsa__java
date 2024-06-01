@@ -60,6 +60,7 @@
 - 013 [Find the distance value between two arrays](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P013_Find_the_distance_value_between_two_arrays.java)
 - 014 [Fair candy swap](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P014_Fair_candy_swap.java)
 - 015 [Find first and last position of element in sorted array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P015_Find_first_and_last_position_of_element_in_sorted_array.java)
+- 016 [Peak index in a mountain array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P016_Peak_index_in_a_mountain_array.java)
 </details>
 
 <details>

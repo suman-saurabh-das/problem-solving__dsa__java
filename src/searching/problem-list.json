@@ -193,5 +193,18 @@
     "solvedOn" : "2024-05-31",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-852",
+    "linkProblem": "https://leetcode.com/problems/peak-index-in-a-mountain-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P016_Peak_index_in_a_mountain_array.java",
+    "name": "Peak index in a mountain array",
+    "serialNum": 16,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-01",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
   }
 ]
