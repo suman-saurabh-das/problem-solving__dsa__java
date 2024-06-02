@@ -206,5 +206,18 @@
     "solvedOn" : "2024-06-01",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-162",
+    "linkProblem": "https://leetcode.com/problems/find-peak-element/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P017_Find_peak_element.java",
+    "name": "Find peak element",
+    "serialNum": 17,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-02",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
   }
 ]
