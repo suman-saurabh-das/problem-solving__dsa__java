@@ -62,6 +62,7 @@
 - 015 [Find first and last position of element in sorted array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P015_Find_first_and_last_position_of_element_in_sorted_array.java)
 - 016 [Peak index in a mountain array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P016_Peak_index_in_a_mountain_array.java)
 - 017 [Find peak element](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P017_Find_peak_element.java)
+- 018 [Find in mountain array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P018_Find_in_mountain_array.java)
 </details>
 
 <details>

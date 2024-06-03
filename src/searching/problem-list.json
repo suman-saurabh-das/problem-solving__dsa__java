@@ -219,5 +219,18 @@
     "solvedOn" : "2024-06-02",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search"]
+  },
+  {
+    "difficulty": "Hard",
+    "error": null,
+    "id": "leetcode-1095",
+    "linkProblem": "https://leetcode.com/problems/find-in-mountain-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P018_Find_in_mountain_array.java",
+    "name": "Find in mountain array",
+    "serialNum": 18,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-03",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Interactive"]
   }
 ]
