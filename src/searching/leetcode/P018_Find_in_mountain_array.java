@@ -18,6 +18,8 @@ public class P018_Find_in_mountain_array {
         System.out.println("Element is at index : "+findInMountainArray(array2, target));
     }
 
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int findInMountainArray(int[] arr, int target) {
         // Find the peak element.
         int peakElementIndex = findPeakElement(arr);
@@ -31,7 +33,7 @@ public class P018_Find_in_mountain_array {
     }
 
     // Binary search to find peak element.
-// Time complexity : O(log(n)) | Space complexity : O(1)
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int findPeakElement(int[] arr) {
         int start = 0, end = arr.length - 1;
 
@@ -48,7 +50,7 @@ public class P018_Find_in_mountain_array {
     }
 
     // Order agnostic binary search
-// Time complexity : O(log(n)) | Space complexity : O(1)
+    // Time complexity : O(log(n)) | Space complexity : O(1)
     public static int orderAgnosticBS(int[] arr, int start, int end, int target) {
         boolean isAscending = arr[start] < arr[end];
         while (start <= end) {

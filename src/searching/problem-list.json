@@ -232,5 +232,18 @@
     "solvedOn" : "2024-06-03",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Interactive"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-33",
+    "linkProblem": "https://leetcode.com/problems/search-in-rotated-sorted-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P019_Search_in_rotated_sorted_array.java",
+    "name": "Search in rotated sorted array",
+    "serialNum": 19,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-03",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search"]
   }
 ]
