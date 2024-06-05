@@ -64,6 +64,7 @@
 - 017 [Find peak element](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P017_Find_peak_element.java)
 - 018 [Find in mountain array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P018_Find_in_mountain_array.java)
 - 019 [Search in rotated sorted array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P019_Search_in_rotated_sorted_array.java)
+- 020 [Split array largest sum](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P020_Split_array_largest_sum.java)
 </details>
 
 <details>

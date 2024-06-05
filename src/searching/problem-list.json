@@ -242,8 +242,21 @@
     "name": "Search in rotated sorted array",
     "serialNum": 19,
     "solutionAccepted": true,
-    "solvedOn" : "2024-06-03",
+    "solvedOn" : "2024-06-04",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search"]
+  },
+  {
+    "difficulty": "Hard",
+    "error": null,
+    "id": "leetcode-410",
+    "linkProblem": "https://leetcode.com/problems/split-array-largest-sum/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/searching/leetcode/P020_Split_array_largest_sum.java",
+    "name": "Split array largest sum",
+    "serialNum": 20,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-05",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Dynamic Programming", "Greedy", "Prefix Sum"]
   }
 ]
