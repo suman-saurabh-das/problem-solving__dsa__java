@@ -18,6 +18,8 @@ public class P020_Split_array_largest_sum {
         System.out.println("Minimised largest sum is : " + splitArray(nums2, k));
     }
 
+    // SOLUTION USING BINARY SEARCH
+    // Time complexity : O(n*log(n)) | Space complexity : O(1)
     public static int splitArray(int[] nums, int k) {
         int start = 0, end = 0;
         for (int i = 0; i < nums.length; i++) {

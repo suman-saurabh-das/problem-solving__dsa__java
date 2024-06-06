@@ -128,5 +128,18 @@
     "solvedOn" : "2024-05-11",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Bit Manipulation", "Hash Table", "Math", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2160",
+    "linkProblem": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P011_Minimum_sum_of_four_digit_number_after_splitting_digits.java",
+    "name": "Minimum sum of four digit number after splitting digits",
+    "serialNum": 11,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-06",
+    "source": "leetcode",
+    "topics" : ["Greedy", "Math", "Sorting"]
   }
 ]
