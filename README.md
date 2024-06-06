@@ -81,6 +81,7 @@
 - 009 [Arithmetic subarrays](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P009_Arithmetic_subarrays.java)
 - 010 [Missing number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P010_Missing_number.java)
 - 011 [Minimum sum of four digit number after splitting digits](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P011_Minimum_sum_of_four_digit_number_after_splitting_digits.java)
+- 012 [Minimum number game](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P012_Minimum_number_game.java)
 </details>
 
 <details>

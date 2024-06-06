@@ -141,5 +141,19 @@
     "solvedOn" : "2024-05-06",
     "source": "leetcode",
     "topics" : ["Greedy", "Math", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2974",
+    "linkProblem": "https://leetcode.com/problems/minimum-sum-of-four-digit-number-after-splitting-digits/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P012_Minimum_number_game.java",
+    "name": "Minimum number game",
+    "serialNum": 12,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-07",
+    "source": "leetcode",
+    "topics" : ["Array", "Heap (Priority Queue)", "Simulation", "Sorting"]
   }
+
 ]
