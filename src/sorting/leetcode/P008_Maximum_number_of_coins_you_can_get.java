@@ -21,7 +21,7 @@ public class P008_Maximum_number_of_coins_you_can_get {
     }
 
     // SOLUTION USING SELECTION SORT
-    // Time complexity - O(n²) | Space complexity : O(1)
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static int maxCoins(int[] piles) {
         // Sort the pile of coins, so we can have triplets in ascending order.
         // e.g. {1, 2, 3, 4, 5, 6, 7, 8, 9}
@@ -44,7 +44,7 @@ public class P008_Maximum_number_of_coins_you_can_get {
     }
 
     // Selection sort.
-    // Time complexity - O(n²) | Space complexity : O(1)
+    // Time complexity : O(n²) | Space complexity : O(1)
     public static void selectionSort(int[] arr) {
         for (int i = 0; i < arr.length; i++) {
             int lastElementIndex = arr.length - 1 - i;
@@ -54,7 +54,7 @@ public class P008_Maximum_number_of_coins_you_can_get {
     }
 
     // Find index of max element in array.
-    // Time complexity - O(n) | Space complexity : O(1)
+    // Time complexity : O(n) | Space complexity : O(1)
     public static int findMaxElementIndex(int[] arr, int end) {
         int maxElementIndex = 0;
         for (int i = 0; i <= end; i++) {
@@ -66,7 +66,7 @@ public class P008_Maximum_number_of_coins_you_can_get {
     }
 
     // Swap array elements using index.
-    // Time complexity - O(1) | Space complexity : O(1)
+    // Time complexity : O(1) | Space complexity : O(1)
     public static void swap(int[] arr, int index1, int index2) {
         int temp = arr[index1];
         arr[index1] = arr[index2];

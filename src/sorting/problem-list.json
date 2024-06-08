@@ -154,6 +154,18 @@
     "solvedOn" : "2024-05-07",
     "source": "leetcode",
     "topics" : ["Array", "Heap (Priority Queue)", "Simulation", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1337",
+    "linkProblem": "https://leetcode.com/problems/the-k-weakest-rows-in-a-matrix/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P013_The_K_weakest_rows_in_a_matrix.java",
+    "name": "The K weakest rows in a matrix",
+    "serialNum": 13,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-08",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Search", "Heap (Priority Queue)", "Matrix", "Sorting"]
   }
-
 ]

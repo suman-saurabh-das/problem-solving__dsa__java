@@ -82,6 +82,7 @@
 - 010 [Missing number](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P010_Missing_number.java)
 - 011 [Minimum sum of four digit number after splitting digits](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P011_Minimum_sum_of_four_digit_number_after_splitting_digits.java)
 - 012 [Minimum number game](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P012_Minimum_number_game.java)
+- 013 [The K weakest rows in a matrix](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P013_The_K_weakest_rows_in_a_matrix.java)
 </details>
 
 <details>
