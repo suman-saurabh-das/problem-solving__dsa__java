@@ -3,6 +3,7 @@ package sorting.leetcode;
 /*
     1561. Maximum number of coins you can get
     https://leetcode.com/problems/maximum-number-of-coins-you-can-get/description/
+    NOTE - This solution gives time limit exceeded error for large arrays.
 
     Input: piles = [2,4,1,2,7,8]
     Output: 9
