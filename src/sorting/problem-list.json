@@ -180,5 +180,18 @@
     "solvedOn" : "2024-05-09",
     "source": "leetcode",
     "topics" : ["Sorting", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1913",
+    "linkProblem": "https://leetcode.com/problems/maximum-product-difference-between-two-pairs/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P015_Maximum_product_difference_between_two_pairs.java",
+    "name": "Maximum product difference between two pairs",
+    "serialNum": 15,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-10",
+    "source": "leetcode",
+    "topics" : ["Array", "Sorting"]
   }
 ]
