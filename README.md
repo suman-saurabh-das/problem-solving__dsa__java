@@ -85,6 +85,7 @@
 - 013 [The K weakest rows in a matrix](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P013_The_K_weakest_rows_in_a_matrix.java)
 - 014 [Sorting the sentence](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P014_Sorting_the_sentence.java)
 - 015 [Maximum product difference between two pairs](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P015_Maximum_product_difference_between_two_pairs.java)
+- 016 [Maximum product of two elements in an array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P016_Maximum_product_of_two_elements_in_an_array.java)
 </details>
 
 <details>
