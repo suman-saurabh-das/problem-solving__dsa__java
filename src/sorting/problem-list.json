@@ -206,5 +206,18 @@
     "solvedOn" : "2024-05-11",
     "source": "leetcode",
     "topics" : ["Array", "Heap (Priority Queue)", "Sorting"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2037",
+    "linkProblem": "https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P017_Minimum_number_of_moves_to_seat_everyone.java",
+    "name": "Minimum number of moves to seat everyone",
+    "serialNum": 17,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-12",
+    "source": "leetcode",
+    "topics" : ["Array", "Greedy", "Sorting"]
   }
 ]
