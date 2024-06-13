@@ -219,5 +219,18 @@
     "solvedOn" : "2024-05-12",
     "source": "leetcode",
     "topics" : ["Array", "Greedy", "Sorting"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": "Time limit exceeded",
+    "id": "leetcode-1877",
+    "linkProblem": "https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P018_Minimize_maximum_pair_sum_in_array.java",
+    "name": "Minimize maximum pair sum in array",
+    "serialNum": 18,
+    "solutionAccepted": false,
+    "solvedOn" : "2024-05-13",
+    "source": "leetcode",
+    "topics" : ["Array", "Greedy", "Sorting", "Two Pointers"]
   }
 ]

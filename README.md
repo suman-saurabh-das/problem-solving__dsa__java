@@ -87,6 +87,7 @@
 - 015 [Maximum product difference between two pairs](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P015_Maximum_product_difference_between_two_pairs.java)
 - 016 [Maximum product of two elements in an array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P016_Maximum_product_of_two_elements_in_an_array.java)
 - 017 [Minimum number of moves to seat everyone](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P017_Minimum_number_of_moves_to_seat_everyone.java)
+- 018 [Minimize maximum pair sum in array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P018_Minimize_maximum_pair_sum_in_array.java)
 </details>
 
 <details>
