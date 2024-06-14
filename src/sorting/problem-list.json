@@ -232,5 +232,18 @@
     "solvedOn" : "2024-05-13",
     "source": "leetcode",
     "topics" : ["Array", "Greedy", "Sorting", "Two Pointers"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": "Time limit exceeded",
+    "id": "leetcode-2785",
+    "linkProblem": "https://leetcode.com/problems/sort-vowels-in-a-string/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P019_Sort_vowels_in_a_string.java",
+    "name": "Sort vowels in a string",
+    "serialNum": 19,
+    "solutionAccepted": false,
+    "solvedOn" : "2024-05-14",
+    "source": "leetcode",
+    "topics" : ["Sorting", "String"]
   }
 ]

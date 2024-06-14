@@ -3,6 +3,7 @@ package sorting.leetcode;
 /*
     1877. Minimize maximum pair sum in array
     https://leetcode.com/problems/minimize-maximum-pair-sum-in-array/description/
+    NOTE - This solution gives time limit exceeded error for large arrays.
 
     Input: nums = [3,5,2,3]
     Output: 7
