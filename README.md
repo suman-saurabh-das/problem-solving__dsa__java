@@ -89,6 +89,7 @@
 - 017 [Minimum number of moves to seat everyone](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P017_Minimum_number_of_moves_to_seat_everyone.java)
 - 018 [Minimize maximum pair sum in array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P018_Minimize_maximum_pair_sum_in_array.java)
 - 019 [Sort vowels in a string](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P019_Sort_vowels_in_a_string.java)
+- 020 [Find all numbers disappeared in an array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P020_Find_all_numbers_disappeared_in_an_array.java)
 </details>
 
 <details>

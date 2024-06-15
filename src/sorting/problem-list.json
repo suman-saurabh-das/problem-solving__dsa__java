@@ -245,5 +245,18 @@
     "solvedOn" : "2024-05-14",
     "source": "leetcode",
     "topics" : ["Sorting", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-448",
+    "linkProblem": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/sorting/leetcode/P020_Find_all_numbers_disappeared_in_an_array.java",
+    "name": "Find all numbers disappeared in an array",
+    "serialNum": 20,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-05-15",
+    "source": "leetcode",
+    "topics" : ["Array", "Hash Table"]
   }
 ]
