@@ -128,5 +128,18 @@
     "solvedOn" : "2024-05-16",
     "source": "leetcode",
     "topics" : ["String", "String Matching", "Two Pointers"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-3110",
+    "linkProblem": "https://leetcode.com/problems/score-of-a-string/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P011_Score_of_a_string.java",
+    "name": "Score of a string",
+    "serialNum": 11,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-16",
+    "source": "leetcode",
+    "topics" : ["String"]
   }
 ]

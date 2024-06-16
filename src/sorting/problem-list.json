@@ -138,7 +138,7 @@
     "name": "Minimum sum of four digit number after splitting digits",
     "serialNum": 11,
     "solutionAccepted": true,
-    "solvedOn" : "2024-05-06",
+    "solvedOn" : "2024-06-06",
     "source": "leetcode",
     "topics" : ["Greedy", "Math", "Sorting"]
   },
@@ -151,7 +151,7 @@
     "name": "Minimum number game",
     "serialNum": 12,
     "solutionAccepted": true,
-    "solvedOn" : "2024-05-07",
+    "solvedOn" : "2024-06-07",
     "source": "leetcode",
     "topics" : ["Array", "Heap (Priority Queue)", "Simulation", "Sorting"]
   },
@@ -164,7 +164,7 @@
     "name": "The K weakest rows in a matrix",
     "serialNum": 13,
     "solutionAccepted": true,
-    "solvedOn" : "2024-05-08",
+    "solvedOn" : "2024-06-08",
     "source": "leetcode",
     "topics" : ["Array", "Binary Search", "Heap (Priority Queue)", "Matrix", "Sorting"]
   },
@@ -177,7 +177,7 @@
     "name": "Sorting the sentence",
     "serialNum": 14,
     "solutionAccepted": true,
-    "solvedOn" : "2024-05-09",
+    "solvedOn" : "2024-06-09",
     "source": "leetcode",
     "topics" : ["Sorting", "String"]
   },
@@ -190,7 +190,7 @@
     "name": "Maximum product difference between two pairs",
     "serialNum": 15,
     "solutionAccepted": true,
-    "solvedOn" : "2024-05-10",
+    "solvedOn" : "2024-06-10",
     "source": "leetcode",
     "topics" : ["Array", "Sorting"]
   },
@@ -203,7 +203,7 @@
     "name": "Maximum Product of Two Elements in an Array",
     "serialNum": 16,
     "solutionAccepted": true,
-    "solvedOn" : "2024-05-11",
+    "solvedOn" : "2024-06-11",
     "source": "leetcode",
     "topics" : ["Array", "Heap (Priority Queue)", "Sorting"]
   },
@@ -216,7 +216,7 @@
     "name": "Minimum number of moves to seat everyone",
     "serialNum": 17,
     "solutionAccepted": true,
-    "solvedOn" : "2024-05-12",
+    "solvedOn" : "2024-06-12",
     "source": "leetcode",
     "topics" : ["Array", "Greedy", "Sorting"]
   },
@@ -229,7 +229,7 @@
     "name": "Minimize maximum pair sum in array",
     "serialNum": 18,
     "solutionAccepted": false,
-    "solvedOn" : "2024-05-13",
+    "solvedOn" : "2024-06-13",
     "source": "leetcode",
     "topics" : ["Array", "Greedy", "Sorting", "Two Pointers"]
   },
@@ -242,7 +242,7 @@
     "name": "Sort vowels in a string",
     "serialNum": 19,
     "solutionAccepted": false,
-    "solvedOn" : "2024-05-14",
+    "solvedOn" : "2024-06-14",
     "source": "leetcode",
     "topics" : ["Sorting", "String"]
   },
@@ -255,7 +255,7 @@
     "name": "Find all numbers disappeared in an array",
     "serialNum": 20,
     "solutionAccepted": true,
-    "solvedOn" : "2024-05-15",
+    "solvedOn" : "2024-06-15",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table"]
   }
