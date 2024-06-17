@@ -106,6 +106,7 @@
 - 009 [Longest common prefix](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P009_Longest_common_prefix.java)
 - 010 [Find the index of the first occurrence in a string](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P010_Find_the_index_of_the_first_occurrence_in_a_string.java)
 - 011 [Score of a string](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P011_Score_of_a_string.java)
+- 012 [Permutation difference between two strings](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P012_Permutation_difference_between_two_strings.java)
 </details>
 
 ## Credits
