@@ -154,5 +154,18 @@
     "solvedOn" : "2024-06-17",
     "source": "leetcode",
     "topics" : ["Hash Table", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2000",
+    "linkProblem": "https://leetcode.com/problems/reverse-prefix-of-word/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P013_Reverse_prefix_of_word.java",
+    "name": "Reverse prefix of word",
+    "serialNum": 13,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-18",
+    "source": "leetcode",
+    "topics" : ["String", "Two Pointers"]
   }
 ]
