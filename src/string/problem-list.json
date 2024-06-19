@@ -167,5 +167,18 @@
     "solvedOn" : "2024-06-18",
     "source": "leetcode",
     "topics" : ["String", "Two Pointers"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1662",
+    "linkProblem": "https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P014_Check_if_two_string_arrays_are_equivalent.java",
+    "name": "Check if two string arrays are equivalent",
+    "serialNum": 14,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-19",
+    "source": "leetcode",
+    "topics" : ["Array", "String"]
   }
 ]
