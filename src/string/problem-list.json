@@ -180,5 +180,18 @@
     "solvedOn" : "2024-06-19",
     "source": "leetcode",
     "topics" : ["Array", "String"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-2391",
+    "linkProblem": "https://leetcode.com/problems/minimum-amount-of-time-to-collect-garbage/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P015_Minimum_amount_of_time_to_collect_garbage.java",
+    "name": "Minimum amount of time to collect garbage",
+    "serialNum": 15,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-20",
+    "source": "leetcode",
+    "topics" : ["Array", "Prefix Sum", "String"]
   }
 ]
