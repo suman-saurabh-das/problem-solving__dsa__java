@@ -193,5 +193,18 @@
     "solvedOn" : "2024-06-20",
     "source": "leetcode",
     "topics" : ["Array", "Prefix Sum", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1816",
+    "linkProblem": "https://leetcode.com/problems/truncate-sentence/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P016_Truncate_sentence.java",
+    "name": "Truncate sentence",
+    "serialNum": 16,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-21",
+    "source": "leetcode",
+    "topics" : ["Array", "String"]
   }
 ]

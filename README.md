@@ -110,6 +110,7 @@
 - 013 [Reverse prefix of word](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P013_Reverse_prefix_of_word.java)
 - 014 [Check if two string arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
 - 015 [Minimum amount of time to collect garbage](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P015_Minimum_amount_of_time_to_collect_garbage.java)
+- 016 [Truncate sentence](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P016_Truncate_sentence.java)
 </details>
 
 ## Credits
