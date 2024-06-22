@@ -206,5 +206,18 @@
     "solvedOn" : "2024-06-21",
     "source": "leetcode",
     "topics" : ["Array", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1773",
+    "linkProblem": "https://leetcode.com/problems/count-items-matching-a-rule/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P017_Count_items_matching_a_rule.java",
+    "name": "Count items matching a rule",
+    "serialNum": 17,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-22",
+    "source": "leetcode",
+    "topics" : ["Array", "String"]
   }
 ]
