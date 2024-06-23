@@ -112,6 +112,7 @@
 - 015 [Minimum amount of time to collect garbage](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P015_Minimum_amount_of_time_to_collect_garbage.java)
 - 016 [Truncate sentence](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P016_Truncate_sentence.java)
 - 017 [Count items matching a rule](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P017_Count_items_matching_a_rule.java)
+- 018 [Shuffle string](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P018_Shuffle_string.java)
 </details>
 
 ## Credits

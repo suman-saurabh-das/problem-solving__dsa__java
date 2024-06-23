@@ -219,5 +219,18 @@
     "solvedOn" : "2024-06-22",
     "source": "leetcode",
     "topics" : ["Array", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1528",
+    "linkProblem": "https://leetcode.com/problems/shuffle-string/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P018_Shuffle_string.java",
+    "name": "Shuffle string",
+    "serialNum": 18,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-23",
+    "source": "leetcode",
+    "topics" : ["Array", "String"]
   }
 ]
