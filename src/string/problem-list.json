@@ -232,5 +232,18 @@
     "solvedOn" : "2024-06-23",
     "source": "leetcode",
     "topics" : ["Array", "String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2194",
+    "linkProblem": "https://leetcode.com/problems/cells-in-a-range-on-an-excel-sheet/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P019_Cells_in_range_on_a_excel_sheet.java",
+    "name": "Cells in a range on an excel sheet",
+    "serialNum": 19,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-24",
+    "source": "leetcode",
+    "topics" : ["String"]
   }
 ]
