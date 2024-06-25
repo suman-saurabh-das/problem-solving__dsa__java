@@ -245,5 +245,18 @@
     "solvedOn" : "2024-06-24",
     "source": "leetcode",
     "topics" : ["String"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2108",
+    "linkProblem": "https://leetcode.com/problems/find-first-palindromic-string-in-the-array/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P020_Find_first_palindromic_string_in_array.java",
+    "name": "Find first palindromic string in the array",
+    "serialNum": 20,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-25",
+    "source": "leetcode",
+    "topics" : ["Array", "String", "Two Pointers"]
   }
 ]
