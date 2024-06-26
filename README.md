@@ -25,6 +25,7 @@
 - 018 [Minimum number of operations to move all balls to each box](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P018_Minimum_number_of_operations_to_move_all_balls_to_each_box.java)
 - 019 [Decompress run-length encoded list](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P019_Decompress_run_length_encoded_list.java)
 - 020 [Number of laser beams in a bank](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P020_Number_of_laser_beams_in_a_bank.java)
+- 021 [Difference between element sum and digit sum of an array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P021_Difference_between_element_sum_and_digit_sum_of_an_array.java)
 </details>
 
 <details>
