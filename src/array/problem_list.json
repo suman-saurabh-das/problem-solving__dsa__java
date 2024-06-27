@@ -271,5 +271,18 @@
     "solvedOn" : "2024-06-26",
     "source": "leetcode",
     "topics" : ["Array", "Math"]
+  },
+  {
+    "difficulty": "Medium",
+    "error": null,
+    "id": "leetcode-1409",
+    "linkProblem": "https://leetcode.com/problems/queries-on-a-permutation-with-key/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P022_Queries_on_a_permutation_with_key.java",
+    "name": "Queries on a permutation with key",
+    "serialNum": 22,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-27",
+    "source": "leetcode",
+    "topics" : ["Array", "Binary Indexed Tree", "Simulation"]
   }
 ]
