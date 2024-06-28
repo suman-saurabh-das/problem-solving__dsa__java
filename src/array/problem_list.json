@@ -284,5 +284,18 @@
     "solvedOn" : "2024-06-27",
     "source": "leetcode",
     "topics" : ["Array", "Binary Indexed Tree", "Simulation"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-1",
+    "linkProblem": "https://leetcode.com/problems/two-sum/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P023_Two_sum.java",
+    "name": "Two sum",
+    "serialNum": 23,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-28",
+    "source": "leetcode",
+    "topics" : ["Array", "Hash Table"]
   }
 ]

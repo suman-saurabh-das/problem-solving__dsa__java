@@ -27,6 +27,7 @@
 - 020 [Number of laser beams in a bank](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P020_Number_of_laser_beams_in_a_bank.java)
 - 021 [Difference between element sum and digit sum of an array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P021_Difference_between_element_sum_and_digit_sum_of_an_array.java)
 - 022 [Queries on a permutation with key](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P022_Queries_on_a_permutation_with_key.java)
+- 023 [Two sum](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P023_Two_sum.java)
 </details>
 
 <details>
