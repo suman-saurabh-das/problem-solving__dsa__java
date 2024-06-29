@@ -297,5 +297,18 @@
     "solvedOn" : "2024-06-28",
     "source": "leetcode",
     "topics" : ["Array", "Hash Table"]
+  },
+  {
+    "difficulty": "Easy",
+    "error": null,
+    "id": "leetcode-2367",
+    "linkProblem": "https://leetcode.com/problems/number-of-arithmetic-triplets/description/",
+    "linkSolution" : "https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P024_Number_of_arithmetic_triplets.java",
+    "name": "Number of arithmetic triplets",
+    "serialNum": 24,
+    "solutionAccepted": true,
+    "solvedOn" : "2024-06-29",
+    "source": "leetcode",
+    "topics" : ["Array", "Enumeration", "Hash Table", "Two Pointers"]
   }
 ]

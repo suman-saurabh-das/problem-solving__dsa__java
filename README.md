@@ -28,6 +28,7 @@
 - 021 [Difference between element sum and digit sum of an array](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P021_Difference_between_element_sum_and_digit_sum_of_an_array.java)
 - 022 [Queries on a permutation with key](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P022_Queries_on_a_permutation_with_key.java)
 - 023 [Two sum](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P023_Two_sum.java)
+- 024 [Number of arithmetic triplets](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/array/leetcode/P024_Number_of_arithmetic_triplets.java)
 </details>
 
 <details>
@@ -111,7 +112,7 @@
 - 011 [Score of a string](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P011_Score_of_a_string.java)
 - 012 [Permutation difference between two strings](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P012_Permutation_difference_between_two_strings.java)
 - 013 [Reverse prefix of word](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P013_Reverse_prefix_of_word.java)
-- 014 [Check if two string arrays are equivalent](https://leetcode.com/problems/check-if-two-string-arrays-are-equivalent/description/)
+- 014 [Check if two string arrays are equivalent](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P014_Check_if_two_string_arrays_are_equivalent.java)
 - 015 [Minimum amount of time to collect garbage](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P015_Minimum_amount_of_time_to_collect_garbage.java)
 - 016 [Truncate sentence](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P016_Truncate_sentence.java)
 - 017 [Count items matching a rule](https://github.com/suman-saurabh-das/problem-solving__dsa__java/blob/main/src/string/leetcode/P017_Count_items_matching_a_rule.java)
